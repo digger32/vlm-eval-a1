@@ -1,0 +1,13 @@
+{
+  "uid": "a1__idefics3_8b__vizwiz_val__blur_s3__seed0",
+  "paper": "a1",
+  "model": "idefics3_8b",
+  "dataset": "vizwiz_val",
+  "condition": "blur_s3",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.5140000000000005,
+  "wall_s": 778.9,
+  "peak_vram_gb": 17.74,
+  "items_file": "results_final/a1__idefics3_8b__vizwiz_val__blur_s3__seed0.items.jsonl"
+}

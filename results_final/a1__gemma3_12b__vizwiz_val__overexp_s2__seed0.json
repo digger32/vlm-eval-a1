@@ -1,0 +1,13 @@
+{
+  "uid": "a1__gemma3_12b__vizwiz_val__overexp_s2__seed0",
+  "paper": "a1",
+  "model": "gemma3_12b",
+  "dataset": "vizwiz_val",
+  "condition": "overexp_s2",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.33688888888888885,
+  "wall_s": 843.3,
+  "peak_vram_gb": 24.58,
+  "items_file": "results_final/a1__gemma3_12b__vizwiz_val__overexp_s2__seed0.items.jsonl"
+}

@@ -1,0 +1,1500 @@
+{"id": "vizwiz_val_VizWiz_val_00000000.jpg", "pred": "Blue Screen of Death", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000001.jpg", "pred": "Nature's Bounty CoQ10", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000002.jpg", "pred": "Rug Years (a memoir)", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000003.jpg", "pred": "Omni-Sorb", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000004.jpg", "pred": "\"OK\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000005.jpg", "pred": "Windows Home Premium", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000006.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000007.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000008.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000009.jpg", "pred": "Brick building and greenery.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000010.jpg", "pred": "Political campaign poster.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000011.jpg", "pred": "Light purple.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000012.jpg", "pred": "ParkMobile, likely from a parking service.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000013.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000014.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000015.jpg", "pred": "The one on the left.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000016.jpg", "pred": "Ham and cheese sandwich.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000017.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000018.jpg", "pred": "Booting/diagnostics.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000019.jpg", "pred": "PP41", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000020.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000021.jpg", "pred": "Brown polo logo.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000022.jpg", "pred": "Oil dropper bottle.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000023.jpg", "pred": "Starting Windows", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000024.jpg", "pred": "Disk check in progress.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000025.jpg", "pred": "Very ominous.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000026.jpg", "pred": "Omeprazole 20mg tablets.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000027.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000028.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000029.jpg", "pred": "Force Quit", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000030.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000031.jpg", "pred": "Samsung Recovery Solution 4", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000032.jpg", "pred": "Social media interface.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000033.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000034.jpg", "pred": "Around 32 inches.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000035.jpg", "pred": "\"Jammin' and Commmin'\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000036.jpg", "pred": "Rug Years (a memoir)", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000037.jpg", "pred": "Yes, pork chops. 11/AU/09.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000038.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000039.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000040.jpg", "pred": "Tesco's Chicken Balti.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000041.jpg", "pred": "Conditions of use; no phone number visible.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000042.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000043.jpg", "pred": "Blurry room interior.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000044.jpg", "pred": "Model: AV1560\nSerial: 73650D", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000045.jpg", "pred": "Jul-08-11", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000046.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000047.jpg", "pred": "Underwear", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000048.jpg", "pred": "Pancake House", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000049.jpg", "pred": "Sprite", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000050.jpg", "pred": "Olympus menu", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000051.jpg", "pred": "Five.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000052.jpg", "pred": "Dell XPS 8700", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000053.jpg", "pred": "Unanswerable.", "acc": 0.6666666666666666, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000054.jpg", "pred": "Irn-Bru", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000055.jpg", "pred": "Electrical supply store.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000056.jpg", "pred": "Lake Arrowhead Trio", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000057.jpg", "pred": "Texas Longhorns logo", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000058.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000059.jpg", "pred": "Seagate 500 GB", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000060.jpg", "pred": "Unanswerable.", "acc": 0.6666666666666666, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000061.jpg", "pred": "Outlook email interface.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000062.jpg", "pred": "Unity website", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000063.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000064.jpg", "pred": "Using a computer.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000065.jpg", "pred": "Windows Locked.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000066.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000067.jpg", "pred": "Geeks On A Leash", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000068.jpg", "pred": "Windows", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000069.jpg", "pred": "Warm vanilla sugar lotion.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000070.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000071.jpg", "pred": "Cold pack.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000072.jpg", "pred": "Blue with fluffy clouds.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000073.jpg", "pred": "Kernel panic.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000074.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000075.jpg", "pred": "Install Mac OS", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000076.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000077.jpg", "pred": "Blue screen error.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000078.jpg", "pred": "Password reset wizard.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000079.jpg", "pred": "Relay For Life.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000080.jpg", "pred": "CSI: Crime Scene Investigation", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000081.jpg", "pred": "Cussler and Dirk Cussler", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000082.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000083.jpg", "pred": "The top right image.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000084.jpg", "pred": "Yes, a Windows logo.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000085.jpg", "pred": "Stress management tips and food recommendations.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000086.jpg", "pred": "Mauritian Rupee", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000087.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000088.jpg", "pred": "Press \"System resume\".", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000089.jpg", "pred": "Expanding Windows files.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000090.jpg", "pred": "Unanswerable.", "acc": 0.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000091.jpg", "pred": "PROP OF QUARTICS INC", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000092.jpg", "pred": "Windows 7 setup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000093.jpg", "pred": "Image is blurry, Windows repair.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000094.jpg", "pred": "\"Windows, Starting up...\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000095.jpg", "pred": "Confirmation dialog.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000096.jpg", "pred": "Caffeinated.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000097.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000098.jpg", "pred": "HP Pavilion dv6.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000099.jpg", "pred": "\"Start channel scan\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000100.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000101.jpg", "pred": "Yes, there is text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000102.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000103.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000104.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000105.jpg", "pred": "Yes, it has.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000106.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000107.jpg", "pred": "Cussler and Dirk Cussler", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000108.jpg", "pred": "Installing Windows", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000109.jpg", "pred": "16309", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000110.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000111.jpg", "pred": "Blurry car interior.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000112.jpg", "pred": "Kmart sale ad.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000113.jpg", "pred": "KEJ", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000114.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000115.jpg", "pred": "Possible heat rash.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000116.jpg", "pred": "\"OK\"", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000117.jpg", "pred": "Live Cussler.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000118.jpg", "pred": "Copyright and trademark information.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000119.jpg", "pred": "\"Ultimate Grand\" and \"Tempo\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000120.jpg", "pred": "Shipping label.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000121.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000122.jpg", "pred": "Jamaican jerk sauce.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000123.jpg", "pred": "Yes, the inputs are visible.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000124.jpg", "pred": "Nine Blackberry drink", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000125.jpg", "pred": "Computer screen with social media.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000126.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000127.jpg", "pred": "Windows 7 setup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000128.jpg", "pred": "7811", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000129.jpg", "pred": "KEYS-K16W17", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000130.jpg", "pred": "Yes, a blue bottle.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000131.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000132.jpg", "pred": "Restoration complete.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000133.jpg", "pred": "\"If you remember your password...shows will show you your hint.\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000134.jpg", "pred": "Laptop screen", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000135.jpg", "pred": "Startup Repair screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000136.jpg", "pred": "Printer not responding.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000137.jpg", "pred": "Archery sale advertisement.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000138.jpg", "pred": "Medicare Inquiry Center, Tampa, FL.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000139.jpg", "pred": "Restoration Complete.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000140.jpg", "pred": "Newspaper ad, portrait orientation.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000141.jpg", "pred": "Semolina flour.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000142.jpg", "pred": "Disk check in progress.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000143.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000144.jpg", "pred": "McAfee: Computer at Risk", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000145.jpg", "pred": "Yes, several steaks.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000146.jpg", "pred": "Magnifier not running.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000147.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000148.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000149.jpg", "pred": "Laptop screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000150.jpg", "pred": "Select a location for the \"Network\" network.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000151.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000152.jpg", "pred": "Red arrow and text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000153.jpg", "pred": "Night Time Cold Fix Relief", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000154.jpg", "pred": "Buy one, get one free.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000155.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000156.jpg", "pred": "Angry Birds", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000157.jpg", "pred": "Temperature Error!", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000158.jpg", "pred": "Plastic bag with label.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000159.jpg", "pred": "Audio captcha.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000160.jpg", "pred": "Windows Explorer with links for Russia.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000161.jpg", "pred": "TV, clock, cabinet, rug.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000162.jpg", "pred": "CHKDSK disk check running.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000163.jpg", "pred": "\"entsurs\u00e4\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000164.jpg", "pred": "Textured fabric.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000165.jpg", "pred": "College General Education Requirements", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000166.jpg", "pred": "Azithromycin Tablets", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000167.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000168.jpg", "pred": "\"Proceed\" and \"Cancel\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000169.jpg", "pred": "Orange soda", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000170.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000171.jpg", "pred": "WKRG News 5", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000172.jpg", "pred": "Maple Leafs vs. Rangers", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000173.jpg", "pred": "Gray and fluffy.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000174.jpg", "pred": "System Restore prompt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000175.jpg", "pred": "Application form", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000176.jpg", "pred": "Windows update.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000177.jpg", "pred": "3042812223", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000178.jpg", "pred": "Comic panel with a speech bubble.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000179.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000180.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000181.jpg", "pred": "Sitting pretty.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000182.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000183.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000184.jpg", "pred": "Yes, more in focus.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000185.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000186.jpg", "pred": "Windows Server 2008 R2", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000187.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000188.jpg", "pred": "Blue screen, driver loading.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000189.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000190.jpg", "pred": "Adobe Creative Suite 6, serial number unreadable.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000191.jpg", "pred": "CJO", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000192.jpg", "pred": "Cluttered room with a TV.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000193.jpg", "pred": "Newspaper article about Beckham's impact on MLS, portrait orientation.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000194.jpg", "pred": "Still loading Windows.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000195.jpg", "pred": "Starz premium movie channels.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000196.jpg", "pred": "Person on stairs.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000197.jpg", "pred": "1-800-735-2929", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000198.jpg", "pred": "\"Not working\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000199.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000200.jpg", "pred": "Coca-Cola", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000201.jpg", "pred": "Here's the seven-day forecast from the image:\n\n*   **Wednesday:** High 100, Low 80\n*   **Thursday:** High 101, Low 81\n*   **Friday:** High 100, Low 80\n*   **", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000202.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000203.jpg", "pred": "Yes, it is.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000204.jpg", "pred": "Death Cab for Cutie, Codes and Keys.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000205.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000206.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000207.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000208.jpg", "pred": "Yes, they do.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000209.jpg", "pred": "Yes, steak is listed.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000210.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000211.jpg", "pred": "Windows login screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000212.jpg", "pred": "Blurry webpage/browser.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000213.jpg", "pred": "Troubleshoot recovery options.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000214.jpg", "pred": "Here's a description of what's on the DVD case based on the image:\n\nPerformance, The Documentary, and a large \"25\" in red.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000215.jpg", "pred": "Windows installation screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000216.jpg", "pred": "Unanswerable.", "acc": 0.6666666666666666, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000217.jpg", "pred": "Working at a computer.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000218.jpg", "pred": "A box with markings.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000219.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000220.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000221.jpg", "pred": "Website listing voice downloads.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000222.jpg", "pred": "40%", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000223.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000224.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000225.jpg", "pred": "macOS installer", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000226.jpg", "pred": "\"File downloaded\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000227.jpg", "pred": "Lightning strike.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000228.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000229.jpg", "pred": "October calendar with \"Ewood Riyadh\" advertisement.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000230.jpg", "pred": "Sony Bravia", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000231.jpg", "pred": "Google Australia.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000232.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000233.jpg", "pred": "House Crashers, baseball.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000234.jpg", "pred": "Windows 7 setup screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000235.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000236.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000237.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000238.jpg", "pred": "Sleeve cuff.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000239.jpg", "pred": "Computer and mouse.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000240.jpg", "pred": "Windows Recovery Environment.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000241.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000242.jpg", "pred": "Software installation/update.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000243.jpg", "pred": "CHKDSK disk check in progress.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000244.jpg", "pred": "The right image.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000245.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000246.jpg", "pred": "No SIM card installed.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000247.jpg", "pred": "Mission Tortilla Strips, $2.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000248.jpg", "pred": "Seagate Momentus 5400.3 160 GB", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000249.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000250.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000251.jpg", "pred": "Mouthwash packaging.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000252.jpg", "pred": "Garoo ePump Pump Set", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000253.jpg", "pred": "Clark Plumb", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000254.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000255.jpg", "pred": "Medication, likely cough syrup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000256.jpg", "pred": "MacBook Pro", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000257.jpg", "pred": "Startup Repair", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000258.jpg", "pred": "2815275", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000259.jpg", "pred": "Force Quit Applications", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000260.jpg", "pred": "Network activity monitor.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000261.jpg", "pred": "Audio driver installation.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000262.jpg", "pred": "1-800-735-2929. Yes, I can hear.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000263.jpg", "pred": "Purple/plum", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000264.jpg", "pred": "Shower curtain.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000265.jpg", "pred": "Red", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000266.jpg", "pred": "White.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000267.jpg", "pred": "Purple Tree craft kit.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000268.jpg", "pred": "Hard disk drive.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000269.jpg", "pred": "Unable to start.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000270.jpg", "pred": "Live Cussler", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000271.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000272.jpg", "pred": "Windows 7 setup; select options.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000273.jpg", "pred": "iPhone 4 box.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000274.jpg", "pred": "Miniature piano.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000275.jpg", "pred": "MLB The Show 10, PS3.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000276.jpg", "pred": "Blurry computer screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000277.jpg", "pred": "Startup Repair fixing problems.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000278.jpg", "pred": "\"Startup Repair is checking your system.\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000279.jpg", "pred": "True.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000280.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000281.jpg", "pred": "CD tracklist.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000282.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000283.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000284.jpg", "pred": "Yes, Windows is coming up.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000285.jpg", "pred": "Yes, it is.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000286.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000287.jpg", "pred": "Possibly, but unclear.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000288.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000289.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000290.jpg", "pred": "To Parents.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000291.jpg", "pred": "Severely damaged.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000292.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000293.jpg", "pred": "Paper bag.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000294.jpg", "pred": "Here's a description of the image:\n\nIt shows a laptop screen displaying a webpage with a cartoon image of a person with a questioning expression. The webpage title includes \"skeptic.gif\" and a date. T", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000295.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000296.jpg", "pred": "Blurry computer screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000297.jpg", "pred": "Top center of the image.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000298.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000299.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000300.jpg", "pred": "\"Beat the Burglar\" safety tips.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000301.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000302.jpg", "pred": "Minnesota Twins 1991 Starter T-shirt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000303.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000304.jpg", "pred": "Devices", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000305.jpg", "pred": "Dell laptop.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000306.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000307.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000308.jpg", "pred": "Startup Repair screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000309.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000310.jpg", "pred": "Approximately 80% complete.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000311.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000312.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000313.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000314.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000315.jpg", "pred": "Milk Thistle supplement.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000316.jpg", "pred": "Social media webpage.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000317.jpg", "pred": "Search results: No matches.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000318.jpg", "pred": "Yes, it is.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000319.jpg", "pred": "True.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000320.jpg", "pred": "Google Australia", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000321.jpg", "pred": "PB12", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000322.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000323.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000324.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000325.jpg", "pred": "User Account Control warning.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000326.jpg", "pred": "Google Australia.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000327.jpg", "pred": "Yes, there is text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000328.jpg", "pred": "\"Ultimate Grand\" and \"Tempo\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000329.jpg", "pred": "Setting up a Windows password.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000330.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000331.jpg", "pred": "Disk check in progress.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000332.jpg", "pred": "Clark Plumb", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000333.jpg", "pred": "Yes, it does.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000334.jpg", "pred": "The album is \"The Dark Side of the Moon\" by Pink Floyd.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000335.jpg", "pred": "Blue desktop background.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000336.jpg", "pred": "\"Restarting several times.\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000337.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000338.jpg", "pred": "DVR Usage and Capacity, 89% full.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000339.jpg", "pred": "Below, 6 lines down.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000340.jpg", "pred": "Startup Repair is checking your system.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000341.jpg", "pred": "Boston BA635 subwoofer.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000342.jpg", "pred": "Comic strip with text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000343.jpg", "pred": "Financial statement/portfolio details.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000344.jpg", "pred": "Search DVD RW Drive (E)", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000345.jpg", "pred": "Website error message.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000346.jpg", "pred": "Chapter coordinates", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000347.jpg", "pred": "YouTube video.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000348.jpg", "pred": "Already booted.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000349.jpg", "pred": "Setting up Windows, password creation.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000350.jpg", "pred": "A: 01 03 04 13 29\nB: 04 11 13 25\nC: 03 07 12 13 20\nD: 03 07 13 1", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000351.jpg", "pred": "Installing Windows files (53%)", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000352.jpg", "pred": "01, 03, 04, 13, 29\n04, 07, 12, 13, 25\n03, 07, 13, 15, 25", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000353.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000354.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000355.jpg", "pred": "4, 04, 35, 36, 42, 50, 01, 02, 10", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000356.jpg", "pred": "Night Time liquid medicine.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000357.jpg", "pred": "Full system recovery.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000358.jpg", "pred": "DVD or similar disc.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000359.jpg", "pred": "Rover's", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000360.jpg", "pred": "Yes, it appears so.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000361.jpg", "pred": "Live Cussler and Dirk Cussler", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000362.jpg", "pred": "Comic panel with text and a laptop in the background.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000363.jpg", "pred": "Piggy bank.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000364.jpg", "pred": "CE, FCC, Made in China", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000365.jpg", "pred": "Startup Repair", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000366.jpg", "pred": "iPhone and iPad Programming CD", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000367.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000368.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000369.jpg", "pred": "Sauce Mix\nC2426 PK #4558777263\n10.58\n85777263", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000370.jpg", "pred": "Check the box.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000371.jpg", "pred": "Dog, brown.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000372.jpg", "pred": "Blue screen error.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000373.jpg", "pred": "Harman/Kardon speaker", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000374.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000375.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000376.jpg", "pred": "Windows XP splash screen", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000377.jpg", "pred": "Disk check in progress.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000378.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000379.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000380.jpg", "pred": "Living room scene.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000381.jpg", "pred": "Invalid product key.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000382.jpg", "pred": "System Restore prompt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000383.jpg", "pred": "Veritas Set-Up Blocks", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000384.jpg", "pred": "Windows recovery environment.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000385.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000386.jpg", "pred": "0.266 A", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000387.jpg", "pred": "Tangled cables and devices.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000388.jpg", "pred": "\"What time zone are you in?\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000389.jpg", "pred": "Severe thunderstorm warning.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000390.jpg", "pred": "RGB745WEA7WW", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000391.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000392.jpg", "pred": "Reddit page.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000393.jpg", "pred": "Subway Rewards", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000394.jpg", "pred": "Fire hydrant and sign.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000395.jpg", "pred": "Dell", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000396.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000397.jpg", "pred": "Startup Repair screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000398.jpg", "pred": "HP tech support screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000399.jpg", "pred": "1 program still needs to close.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000400.jpg", "pred": "Australia Post, Pull to Remove.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000401.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000402.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000403.jpg", "pred": "Windows startup repair error screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000404.jpg", "pred": "System Restore prompt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000405.jpg", "pred": "Boot device selection screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000406.jpg", "pred": "Desktop icons and a window.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000407.jpg", "pred": "JAWS is not responding.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000408.jpg", "pred": "Antivirus software scan.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000409.jpg", "pred": "JAWS error message.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000410.jpg", "pred": "Wait for reboot.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000411.jpg", "pred": "Startup Repair diagnosis log.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000412.jpg", "pred": "Coordinate Plan Graphing Project.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000413.jpg", "pred": "Yes, it's readable.\n\n**Screen:** Advanced Boot Options for: Windows Vista\n\n**Options:**\n* Repair Your Computer\n* Safe Mode\n* Safe Mode with Networking\n* Safe Mode with Command Prompt\n* Disable Boot Lo", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000414.jpg", "pred": "Laptop screen with text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000415.jpg", "pred": "ASUS", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000416.jpg", "pred": "Website registration form.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000417.jpg", "pred": "Living room entertainment setup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000418.jpg", "pred": "WellCare Evidence of Coverage", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000419.jpg", "pred": "Startup repair error.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000420.jpg", "pred": "Restoring your desktop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000421.jpg", "pred": "Incorrect login.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000422.jpg", "pred": "Word processor with document list, toolbar, and status bar.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000423.jpg", "pred": "Tim Hortons", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000424.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000425.jpg", "pred": "Computer file folders.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000426.jpg", "pred": "HP Recovery Manager", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000427.jpg", "pred": "Windows installation progress.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000428.jpg", "pred": "HP Recovery Manager", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000429.jpg", "pred": "Windows Startup Repair error.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000430.jpg", "pred": "40395", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000431.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000432.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000433.jpg", "pred": "Checking file system on C.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000434.jpg", "pred": "Windows Boot Manager.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000435.jpg", "pred": "Processing video and descriptors.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000436.jpg", "pred": "Laptop with webpage.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000437.jpg", "pred": "Food product label.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000438.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000439.jpg", "pred": "Windows 7 installation license terms.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000440.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000441.jpg", "pred": "Encryption key needed; unanswerable.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000442.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000443.jpg", "pred": "Green, rectangular text box.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000444.jpg", "pred": "Product label.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000445.jpg", "pred": "1991, Athletics, unanswerable.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000446.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000447.jpg", "pred": "Incorrect password error.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000448.jpg", "pred": "Edit Boot Options for Windows Setup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000449.jpg", "pred": "Printing, imaging, binding, data, mailing services.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000450.jpg", "pred": "ASUS laptop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000451.jpg", "pred": "White, beige, and black.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000452.jpg", "pred": "Ransom, Down a Dark Hall, Stranger with My Face, by Lois Duncan", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000453.jpg", "pred": "\"Other media. Restart\" repeated.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000454.jpg", "pred": "Safe Mode screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000455.jpg", "pred": "Windows Startup Repair.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000456.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000457.jpg", "pred": "EMI Health", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000458.jpg", "pred": "No, it's a laptop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000459.jpg", "pred": "Boot device is not connected.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000460.jpg", "pred": "Windows 7 installation.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000461.jpg", "pred": "HP 2GB PC2-5300 2x1GB Kit", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000462.jpg", "pred": "VAIO Recovery Center options.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000463.jpg", "pred": "Startup Repair diagnostics.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000464.jpg", "pred": "Exiting the system.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000465.jpg", "pred": "Here's the list of options from top to bottom, based on the image:\n\n*   PATHOS\n*   REALISM\n*   VERBOSE\n*   REALISM VS\n*   FUNCTIONAL", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000466.jpg", "pred": "Dell Latitude E6420 update.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000467.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000468.jpg", "pred": "Boot screen/Press any key.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000469.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000470.jpg", "pred": "MacBook Pro Wi-Fi error.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000471.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000472.jpg", "pred": "Desk setup with computer.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000473.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000474.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000475.jpg", "pred": "2/8/2012 12:13 PM", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000476.jpg", "pred": "Startup Repair: Computer was unable to start.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000477.jpg", "pred": "Research paper screenshot.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000478.jpg", "pred": "Expiration date: 05/18", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000479.jpg", "pred": "xQb", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000480.jpg", "pred": "Windows Boot Manager", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000481.jpg", "pred": "Laptop with error message.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000482.jpg", "pred": "Streaming video controls.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000483.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000484.jpg", "pred": "Google search page.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000485.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000486.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000487.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000488.jpg", "pred": "Dell laptop power adapter.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000489.jpg", "pred": "Yes, an error message.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000490.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000491.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000492.jpg", "pred": "Checking disk consistency.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000493.jpg", "pred": "Laptop desktop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000494.jpg", "pred": "System Restore question.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000495.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000496.jpg", "pred": "Apple Accessibility settings.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000497.jpg", "pred": "00011420", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000498.jpg", "pred": "Startup Repair.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000499.jpg", "pred": "akTIR", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000500.jpg", "pred": "WWK", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000501.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000502.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000503.jpg", "pred": "JBK", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000504.jpg", "pred": "**Dialogue box says:** \"Windows cannot repair this computer automatically.\"\n\n**Highlighted:** \"Startup Repair\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000505.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000506.jpg", "pred": "Spray 4 kit", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000507.jpg", "pred": "Delivery order slip.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000508.jpg", "pred": "Startup Repair screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000509.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000510.jpg", "pred": "Old computer setup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000511.jpg", "pred": "Startup Repair prompt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000512.jpg", "pred": "Mac OS X installation.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000513.jpg", "pred": "Left.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000514.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000515.jpg", "pred": "COBRA continuation coverage details.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000516.jpg", "pred": "Time zone selection.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000517.jpg", "pred": "Yes, \"cannot be started.\"\n\n\n\nAction: Try \"Startup Repair.\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000518.jpg", "pred": "Computer monitor and keyboard.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000519.jpg", "pred": "Refurbished computers for visually impaired.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000520.jpg", "pred": "Please use a cover to prevent splatters.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000521.jpg", "pred": "Startup Repair attempting repairs.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000522.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000523.jpg", "pred": "Messages", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000524.jpg", "pred": "Ingredients list.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000525.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000526.jpg", "pred": "Fujifilm", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000527.jpg", "pred": "\"Cannot repair automatically\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000528.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000529.jpg", "pred": "MacBook", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000530.jpg", "pred": "94F", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000531.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000532.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000533.jpg", "pred": "Something is loading.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000534.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000535.jpg", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000536.jpg", "pred": "1. BK-G4\n2. 0230513", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000537.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000538.jpg", "pred": "\"Merry Christmas\"", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000539.jpg", "pred": "Startup Repair is checking.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000540.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000541.jpg", "pred": "Gold", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000542.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000543.jpg", "pred": "Calming", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000544.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000545.jpg", "pred": "Disk partitions and sizes.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000546.jpg", "pred": "Computer error message.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000547.jpg", "pred": "BlackBerry Curve 3G", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000548.jpg", "pred": "Windows installation progress.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000549.jpg", "pred": "Question sheet with text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000550.jpg", "pred": "256MB DDR PC3200 CL3", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000551.jpg", "pred": "Arrow key, 2 taps.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000552.jpg", "pred": "Here's what's on the screen and the options:\n\n**Screen Content:** System Recovery Options\n\n**Options:**\n\n*   Video (640x480)\n*   Configuration (advanced)\n*   Restore Mode\n*   Restart on system failure", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000553.jpg", "pred": "Startup Repair screen.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000554.jpg", "pred": "Waiting for input.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000555.jpg", "pred": "The security code is \"nikeho\".", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000556.jpg", "pred": "Green lawn, trees, building in background.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000557.jpg", "pred": "CWA Local 1107", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000558.jpg", "pred": "Lancaster 1863", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000559.jpg", "pred": "Troubleshooting guide for a scanner.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000560.jpg", "pred": "License terms.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000561.jpg", "pred": "Windows 7 Professional license terms.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000562.jpg", "pred": "v\u00e4n c85", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000563.jpg", "pred": "3233-4347", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000564.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000565.jpg", "pred": "1 hour", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000566.jpg", "pred": "System Restore prompt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000567.jpg", "pred": "System Restore prompt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000568.jpg", "pred": "Wooden shelf with tablet.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000569.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000570.jpg", "pred": "Notebook, pen, laptop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000571.jpg", "pred": "Attempting repairs, restart.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000572.jpg", "pred": "Unanswerable.", "acc": 0.6666666666666666, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000573.jpg", "pred": "Installing Mac OS X", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000574.jpg", "pred": "Suburban neighborhood with a large building.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000575.jpg", "pred": "Windows update", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000576.jpg", "pred": "SO-DIMM DDR2", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000577.jpg", "pred": "914b0b52ddefault.aspx", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000578.jpg", "pred": "Clothing tag.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000579.jpg", "pred": "System restart prompt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000580.jpg", "pred": "Repair or restart.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000581.jpg", "pred": "Formatting drive for Windows 10.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000582.jpg", "pred": "k9J4", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000583.jpg", "pred": "WD2000", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000584.jpg", "pred": "GoNets", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000585.jpg", "pred": "Laptop and crib.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000586.jpg", "pred": "\"ESC\" is highlighted.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000587.jpg", "pred": "Hot chocolate mix.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000588.jpg", "pred": "Yes, it appears to be a Google satellite image. It shows a large building complex with a lawn, a sports field, and surrounding residential areas.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000589.jpg", "pred": "\"Delightful Grandchildren than fighting over your lap.\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000590.jpg", "pred": "Laptop playing Hulu", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000591.jpg", "pred": "16 Apr 13", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000592.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000593.jpg", "pred": "Cloudy and overcast.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000594.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000595.jpg", "pred": "Power adapter.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000596.jpg", "pred": "Yes, it does.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000597.jpg", "pred": "Braille text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000598.jpg", "pred": "McDonald's nutritional information poster.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000599.jpg", "pred": "Overcast and cloudy.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000600.jpg", "pred": "Boot menu/BIOS screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000601.jpg", "pred": "Bar-B-Que Restaurant.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000602.jpg", "pred": "Coloratura Craziness", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000603.jpg", "pred": "Windows XP desktop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000604.jpg", "pred": "Kinect sensor.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000605.jpg", "pred": "Computer desktop wallpaper.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000606.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000607.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000608.jpg", "pred": "Christmas-themed game.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000609.jpg", "pred": "TeamTalk 4.2", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000610.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000611.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000612.jpg", "pred": "X170-06587", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000613.jpg", "pred": "3", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000614.jpg", "pred": "Bible with glasses.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000615.jpg", "pred": "16 ounces", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000616.jpg", "pred": "257.039 m\u00b3", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000617.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000618.jpg", "pred": "Garden vegetable soup.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000619.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000620.jpg", "pred": "Yes, errors were found.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000621.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000622.jpg", "pred": "Citycab taxi service details.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000623.jpg", "pred": "Cream of Celery", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000624.jpg", "pred": "Person sitting on floor.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000625.jpg", "pred": "Rewards card.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000626.jpg", "pred": "Selly's Club Member", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000627.jpg", "pred": "Yes, I see text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000628.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000629.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000630.jpg", "pred": "Computer screen.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000631.jpg", "pred": "Blurry scene with pills.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000632.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000633.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000634.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000635.jpg", "pred": "Computer setup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000636.jpg", "pred": "Cash for Life", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000637.jpg", "pred": "iPhone", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000638.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000639.jpg", "pred": "A person's mouth.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000640.jpg", "pred": "City street view.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000641.jpg", "pred": "Laptop and desk.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000642.jpg", "pred": "Laptop with a screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000643.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000644.jpg", "pred": "Yes, it looks stormy.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000645.jpg", "pred": "Windows Boot Manager.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000646.jpg", "pred": "Every cloud has a silver lining.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000647.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000648.jpg", "pred": "Using a device.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000649.jpg", "pred": "6", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000650.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000651.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000652.jpg", "pred": "Computer and monitor.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000653.jpg", "pred": "Required services not running.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000654.jpg", "pred": "Boot options for Windows.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000655.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000656.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000657.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000658.jpg", "pred": "\"HAPPY\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000659.jpg", "pred": "He appears to be a boy.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000660.jpg", "pred": "Yes, all toes visible.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000661.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000662.jpg", "pred": "Unanswerable.", "acc": 0.6666666666666666, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000663.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000664.jpg", "pred": "Desktop with icons.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000665.jpg", "pred": "Jawbone Jambox, serial: 047025828E", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000666.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000667.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000668.jpg", "pred": "unanswerable", "acc": 0.6666666666666666, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000669.jpg", "pred": "Facebook", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000670.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000671.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000672.jpg", "pred": "Blurry light source.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000673.jpg", "pred": "Yes, it appears to be.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000674.jpg", "pred": "Title: The role of a switchboard operator.\nPage number: 1", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000675.jpg", "pred": "Blurry textbook.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000676.jpg", "pred": "Visible, bottom right.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000677.jpg", "pred": "Job description document.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000678.jpg", "pred": "Blurry paper flying.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000679.jpg", "pred": "\"What exactly does the word 'ascended' mean?\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000680.jpg", "pred": "Lorazepam medication.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000681.jpg", "pred": "Airline ticket.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000682.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000683.jpg", "pred": "Unanswerable.", "acc": 0.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000684.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000685.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000686.jpg", "pred": "Hormel Real Bacon Bits", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000687.jpg", "pred": "Keyboard and laptop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000688.jpg", "pred": "Yes, monitor light.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000689.jpg", "pred": "Apple iPad", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000690.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000691.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000692.jpg", "pred": "Blurry person in bed.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000693.jpg", "pred": "Coming up.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000694.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000695.jpg", "pred": "The letter \"T\".", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000696.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000697.jpg", "pred": "Skype Recorder settings.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000698.jpg", "pred": "Unanswerable.", "acc": 0.6666666666666666, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000699.jpg", "pred": "Dirty plate on desk.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000700.jpg", "pred": "Navigation app for visually impaired.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000701.jpg", "pred": "Android phone and Macbook Air.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000702.jpg", "pred": "Nike FuelBand", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000703.jpg", "pred": "0026 0726 0002", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000704.jpg", "pred": "Laptop keyboard and screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000705.jpg", "pred": "Microsoft Word document.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000706.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000707.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000708.jpg", "pred": "Couponing supplies.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000709.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000710.jpg", "pred": "Laptop computer.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000711.jpg", "pred": "z-N", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000712.jpg", "pred": "210 calories.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000713.jpg", "pred": "Child's drawing on a bulletin board.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000714.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000715.jpg", "pred": "HP Recovery Manager", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000716.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000717.jpg", "pred": "Apr 11-12", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000718.jpg", "pred": "VizWiz app review.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000719.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000720.jpg", "pred": "Green grass.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000721.jpg", "pred": "Yes, it's a SB6190.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000722.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000723.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000724.jpg", "pred": "A book.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000725.jpg", "pred": "Stretch marks and a belly button.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000726.jpg", "pred": "Lenovo ThinkPad X230.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000727.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000728.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000729.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000730.jpg", "pred": "Old computer terminal.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000731.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000732.jpg", "pred": "146.520", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000733.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000734.jpg", "pred": "Brown, furry costume.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000735.jpg", "pred": "Tire sidewall.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000736.jpg", "pred": "Chipotle", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000737.jpg", "pred": "Virtual machine memory settings.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000738.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000739.jpg", "pred": "Blurred city lights.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000740.jpg", "pred": "Advanced Boot Options.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000741.jpg", "pred": "29 percent complete.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000742.jpg", "pred": "Screencast-O-Matic", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000743.jpg", "pred": "Startup options menu.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000744.jpg", "pred": "Car headlight", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000745.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000746.jpg", "pred": "Window reflection.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000747.jpg", "pred": "Laptop on a wooden desk.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000748.jpg", "pred": "Green card, room.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000749.jpg", "pred": "Skype audio waveform.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000750.jpg", "pred": "Downtown Toronto buildings.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000751.jpg", "pred": "Practical, Consuo", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000752.jpg", "pred": "Yes, it's a decent picture.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000753.jpg", "pred": "People on a couch.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000754.jpg", "pred": "iTunes burning prompt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000755.jpg", "pred": "Lake Internal Medicine", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000756.jpg", "pred": "1503C", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000757.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000758.jpg", "pred": "MVG", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000759.jpg", "pred": "52", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000760.jpg", "pred": "799852896", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000761.jpg", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000762.jpg", "pred": "Minecraft screenshot.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000763.jpg", "pred": "Motion blur.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000764.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000765.jpg", "pred": "Chocolate milk.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000766.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000767.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000768.jpg", "pred": "Saint Louis Bread Co. cup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000769.jpg", "pred": "Bottled mineral water.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000770.jpg", "pred": "Recipe box.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000771.jpg", "pred": "Windows XP desktop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000772.jpg", "pred": "Every Now and Then", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000773.jpg", "pred": "Dell desktop computer.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000774.jpg", "pred": "Gaming setup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000775.jpg", "pred": "On a couch.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000776.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000777.jpg", "pred": "Windows installation error.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000778.jpg", "pred": "Yes, the \"C\" button.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000779.jpg", "pred": "MacBook with app store.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000780.jpg", "pred": "Disk check in progress, no percentage shown.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000781.jpg", "pred": "$1.29/$1.99", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000782.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000783.jpg", "pred": "Laptop screen with app.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000784.jpg", "pred": "Here's a detailed description of the image:\n\nThe image is a Google Street View capture showing a street scene with a large, blank sign in the foreground. Behind the sign is a well-maintained grassy ar", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000785.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000786.jpg", "pred": "Mobile device home screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000787.jpg", "pred": "Apple news website", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000788.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000789.jpg", "pred": "Restaurant menu.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000790.jpg", "pred": "Olympus digital recorder.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000791.jpg", "pred": "Spa treatment descriptions.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000792.jpg", "pred": "'octavarium test guitar' saved.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000793.jpg", "pred": "Winners for Life game.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000794.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000795.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000796.jpg", "pred": "Yes, login screen. Press Ctrl+Alt+Del, then type BBM99756.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000797.jpg", "pred": "Windows loading screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000798.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000799.jpg", "pred": "Installing update.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000800.jpg", "pred": "Janis market", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000801.jpg", "pred": "Tablet screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000802.jpg", "pred": "Yes, it does.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000803.jpg", "pred": "Red and white.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000804.jpg", "pred": "Subwoofer enclosure.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000805.jpg", "pred": "Purple and teal.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000806.jpg", "pred": "Arrow down.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000807.jpg", "pred": "Skype with YouCam", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000808.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000809.jpg", "pred": "Yes, Mac ID: 505301U", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000810.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000811.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000812.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000813.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000814.jpg", "pred": "Laptop with webpage", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000815.jpg", "pred": "Lenovo ThinkPad laptop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000816.jpg", "pred": "Suburban area with grid streets and buildings.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000817.jpg", "pred": "Upload: 31.45 Mbit/s\nDownload: 34.52 Mbit/s", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000818.jpg", "pred": "Microsoft Edge browser.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000819.jpg", "pred": "Windows Vista setup, license terms.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000820.jpg", "pred": "White/Silver", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000821.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000822.jpg", "pred": "Yes, Windows 8 install.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000823.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000824.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000825.jpg", "pred": "Books", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000826.jpg", "pred": "Ford Crown Victoria", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000827.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000828.jpg", "pred": "iPad with apps.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000829.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000830.jpg", "pred": "Testing Java", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000831.jpg", "pred": "$25", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000832.jpg", "pred": "Topping, sweetener, creamer.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000833.jpg", "pred": "iTunes gift card.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000834.jpg", "pred": "Yes, there is text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000835.jpg", "pred": "Keys and paperwork.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000836.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000837.jpg", "pred": "Software update notification.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000838.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000839.jpg", "pred": "WF1", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000840.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000841.jpg", "pred": "XX Large", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000842.jpg", "pred": "Laptop screen with vertical lines.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000843.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000844.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000845.jpg", "pred": "Here's a detailed description of the image and whether a bus stop is visible:\n\n**Description:**\n\nThe image is a Google Street View shot of a roadside scene. It appears to be a rural or suburban area w", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000846.jpg", "pred": "Computer desktop with icons.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000847.jpg", "pred": "Here's what I can make out from the image:\n\n*   **Audacity 1.1**\n*   **QuickTime Player**\n*   **Tip Cube**\n*   **Thunderbird**\n*   **VMware Player**\n*   **battle zone**", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000848.jpg", "pred": "Dell laptop.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000849.jpg", "pred": "HP ProBook 6 series", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000850.jpg", "pred": "Computer desktop with icons.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000851.jpg", "pred": "It's a test note.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000852.jpg", "pred": "Jared jewelry card.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000853.jpg", "pred": "Likely geographic tongue.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000854.jpg", "pred": "Bakery, storefront, pharmacy.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000855.jpg", "pred": "Chromium setup screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000856.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000857.jpg", "pred": "\"Get the results you want, from experts who care!\"", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000858.jpg", "pred": "Free computers for visually impaired.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000859.jpg", "pred": "Estados Unidos Mexicanos", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000860.jpg", "pred": "Mocha coffee.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000861.jpg", "pred": "2RM5", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000862.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000863.jpg", "pred": "MetroCard", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000864.jpg", "pred": "Americana Original Lotion", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000865.jpg", "pred": "Gold.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000866.jpg", "pred": "Green trees and a street.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000867.jpg", "pred": "Computer and monitor.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000868.jpg", "pred": "National Finals 2012", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000869.jpg", "pred": "\"Read your journal entry again.\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000870.jpg", "pred": "Person reading, with a cup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000871.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000872.jpg", "pred": "Laptop with Windows.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000873.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000874.jpg", "pred": "Software installation options.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000875.jpg", "pred": "Online scheduling software.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000876.jpg", "pred": "Magazine cover.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000877.jpg", "pred": "38i9Rg48", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000878.jpg", "pred": "$5 Avocado Bacon Tostada Combo", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000879.jpg", "pred": "3", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000880.jpg", "pred": "Windows User Account Control", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000881.jpg", "pred": "Chicken Noodle", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000882.jpg", "pred": "800-643-2112", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000883.jpg", "pred": "Has a signature.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000884.jpg", "pred": "Earrings.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000885.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000886.jpg", "pred": "Apps for the visually impaired.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000887.jpg", "pred": "Yes, it does.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000888.jpg", "pred": "Swimming pool facility.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000889.jpg", "pred": "Computer and desk.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000890.jpg", "pred": "AVAST virus scan.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000891.jpg", "pred": "Elevator doors.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000892.jpg", "pred": "Error message, not the desktop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000893.jpg", "pred": "Likely a boy.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000894.jpg", "pred": "952H", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000895.jpg", "pred": "(417) 733-3333", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000896.jpg", "pred": "Street view of a residential area.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000897.jpg", "pred": "Jk15ce848", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000898.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000899.jpg", "pred": "Laptop computer.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000900.jpg", "pred": "Associate", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000901.jpg", "pred": "You won $40!", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000902.jpg", "pred": "Forest path with stairs.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000903.jpg", "pred": "$12,999.01", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000904.jpg", "pred": "Security Challenge", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000905.jpg", "pred": "Audio book CD.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000906.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000907.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000908.jpg", "pred": "\"Grandchildren than Delightful\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000909.jpg", "pred": "Windows taskbar.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000910.jpg", "pred": "TAB", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000911.jpg", "pred": "New.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000912.jpg", "pred": "Travel document/card.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000913.jpg", "pred": "Green pear.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000914.jpg", "pred": "Wireless network name and password.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000915.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000916.jpg", "pred": "Windows 7 installation.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000917.jpg", "pred": "Tom Hiddleston", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000918.jpg", "pred": "\"May gifts and blessings...\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000919.jpg", "pred": "Laptop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000920.jpg", "pred": "Boot menu, USB option.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000921.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000922.jpg", "pred": "Computer setup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000923.jpg", "pred": "Windows installation options.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000924.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000925.jpg", "pred": "NIIB logo", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000926.jpg", "pred": "Restore, Diagnostics, Backup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000927.jpg", "pred": "JAWS not responding.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000928.jpg", "pred": "wGtp", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000929.jpg", "pred": "Insurance documentation.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000930.jpg", "pred": "3.93 miles.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000931.jpg", "pred": "Windows restart screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000932.jpg", "pred": "Yes, it does.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000933.jpg", "pred": "00011420", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000934.jpg", "pred": "A desktop computer.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000935.jpg", "pred": "Carolina Pick 5", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000936.jpg", "pred": "Product packaging/box.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000937.jpg", "pred": "Startup Repair checking system.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000938.jpg", "pred": "Yes, it is a box.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000939.jpg", "pred": "Austen Powers puzzle", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000940.jpg", "pred": "Blue screen, some writing.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000941.jpg", "pred": "Google Accounts", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000942.jpg", "pred": "Laptop screen with text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000943.jpg", "pred": "Price chart with events marked.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000944.jpg", "pred": "Yes, there are icons.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000945.jpg", "pred": "Verizon", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000946.jpg", "pred": "Windows desktop system.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000947.jpg", "pred": "Side to side.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000948.jpg", "pred": "Yes, it is.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000949.jpg", "pred": "Yes, it matches.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000950.jpg", "pred": "Computer Organization and Design", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000951.jpg", "pred": "LEGO Batman 2 options.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000952.jpg", "pred": "Windows repair error.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000953.jpg", "pred": "Exchanger logo", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000954.jpg", "pred": "Diagnosis and repair log.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000955.jpg", "pred": "\"Safe Mode\" is highlighted. It doesn't show how to navigate.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000956.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000957.jpg", "pred": "Blue screen of death.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000958.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000959.jpg", "pred": "Press the \"C\" button.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000960.jpg", "pred": "Installing X", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000961.jpg", "pred": "Refrigerator comparison sheet", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000962.jpg", "pred": "Dunkin' and Baskin-Robbins", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000963.jpg", "pred": "Startup Repair error.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000964.jpg", "pred": "Skype sign-up verification.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000965.jpg", "pred": "Microsoft Office Enterprise 2007", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000966.jpg", "pred": "Invalid product key.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000967.jpg", "pred": "Sports timer.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000968.jpg", "pred": "Laptop and room.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000969.jpg", "pred": "HP logo", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000970.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000971.jpg", "pred": "Yes, it shows \"USB: USB DISK Pro\". Use arrow keys to move.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000972.jpg", "pred": "Dell Inspiron 1012.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000973.jpg", "pred": "0261627.2", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000974.jpg", "pred": "MVG", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000975.jpg", "pred": "All of the above.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000976.jpg", "pred": "Music website page.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000977.jpg", "pred": "Laptop screen with text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000978.jpg", "pred": "BART ticket.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000979.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000980.jpg", "pred": "Attempting repairs...", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000981.jpg", "pred": "Google download directory.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000982.jpg", "pred": "Book page.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000983.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00000984.jpg", "pred": "Driver Signing: \"Driver Signature Enforcement\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000985.jpg", "pred": "Cheetos snack bag.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000986.jpg", "pred": "Option B.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000987.jpg", "pred": "Repeated text.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000988.jpg", "pred": "JBE SN04702582BE", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000989.jpg", "pred": "\"Yes\"", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000990.jpg", "pred": "Blue Screen of Death (BSOD)", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000991.jpg", "pred": "Model: 363.203\nRetail Price: $248.99\nSale Price: $179.99\nSold at: Sears", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000992.jpg", "pred": "Installing Mac OS X", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000993.jpg", "pred": "Yes, it is an iPad.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000994.jpg", "pred": "Side-to-side.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000995.jpg", "pred": "USPS mailbox.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000996.jpg", "pred": "PSUC-F354", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000997.jpg", "pred": "Two words.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000998.jpg", "pred": "Regal Crown Club", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00000999.jpg", "pred": "Instruction manual.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001000.jpg", "pred": "Unanswerable.", "acc": 0.6666666666666666, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001001.jpg", "pred": "Enter key.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001002.jpg", "pred": "Acer laptop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001003.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001004.jpg", "pred": "Striped fabric and paper.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001005.jpg", "pred": "Checking file system on C:", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001006.jpg", "pred": "Pink and white.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001007.jpg", "pred": "Installing Windows", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001008.jpg", "pred": "VCR and VHS tapes.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001009.jpg", "pred": "Dim, blue screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001010.jpg", "pred": "DBK", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001011.jpg", "pred": "Apple receipt, $15.00", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001012.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001013.jpg", "pred": "TL2", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001014.jpg", "pred": "Windows error message.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001015.jpg", "pred": "Old computer monitor.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001016.jpg", "pred": "$58", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001017.jpg", "pred": "Sirius ID and number.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001018.jpg", "pred": "Guitar neck/parts.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001019.jpg", "pred": "Laptop with document.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001020.jpg", "pred": "Appears somewhat unhealthy.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001021.jpg", "pred": "Laptop displaying Facebook.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001022.jpg", "pred": "Screen recording.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001023.jpg", "pred": "Blue Screen of Death (BSOD)", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001024.jpg", "pred": "David Justice, Atlanta Braves", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001025.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001026.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001027.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001028.jpg", "pred": "Windows installation progress.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001029.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001030.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001031.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001032.jpg", "pred": "A webpage displaying images related to \"Walking the Hedge.\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001033.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001034.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001035.jpg", "pred": "Product Recovery", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001036.jpg", "pred": "Tablet on wood surface.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001037.jpg", "pred": "3", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001038.jpg", "pred": "Installing 4 items.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001039.jpg", "pred": "Bottles of water.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001040.jpg", "pred": "Unanswerable.", "acc": 0.6666666666666666, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001041.jpg", "pred": "Wind tunnel models.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001042.jpg", "pred": "The blue card.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001043.jpg", "pred": "User Account Control prompt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001044.jpg", "pred": "Paper and placemat.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001045.jpg", "pred": "Dell", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001046.jpg", "pred": "Notice of Pendency of Action.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001047.jpg", "pred": "Computer and speaker.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001048.jpg", "pred": "Unanswerable.", "acc": 0.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001049.jpg", "pred": "Sushi bar appetizers and salads.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001050.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001051.jpg", "pred": "Laptop screen", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001052.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001053.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001054.jpg", "pred": "Installing Windows.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001055.jpg", "pred": "Cursor needs moved first.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001056.jpg", "pred": "Cardinal Health", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001057.jpg", "pred": "iPad App Updates", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001058.jpg", "pred": "$1.29/$1.99", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001059.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001060.jpg", "pred": "It's a laptop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001061.jpg", "pred": "App Store on iPad", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001062.jpg", "pred": "Samsung laptop.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001063.jpg", "pred": "Yes, it is a box.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001064.jpg", "pred": "Login screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001065.jpg", "pred": "Wi-Fi network names.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001066.jpg", "pred": "Canada", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001067.jpg", "pred": "BIOS setup screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001068.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001069.jpg", "pred": "77 percent completed.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001070.jpg", "pred": "Download link.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001071.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001072.jpg", "pred": "Missing system file.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001073.jpg", "pred": "unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001074.jpg", "pred": "$19.99", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001075.jpg", "pred": "Computer unable to start.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001076.jpg", "pred": "Here's what the text says next to the checkboxes, based on the image:\n\n*   **Radioauswahl**\n*   **Teleauswahl**\n*   **Radioauswahl**", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001077.jpg", "pred": "Computer monitor", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001078.jpg", "pred": "PKRSF", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001079.jpg", "pred": "Windows Memory Diagnostics.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001080.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001081.jpg", "pred": "Leopard print cushion.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001082.jpg", "pred": "A Hulu Plus login screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001083.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001084.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001085.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001086.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001087.jpg", "pred": "Startup Repair screen.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001088.jpg", "pred": "The Bloody Chamber", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001089.jpg", "pred": "Australia Post label.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001090.jpg", "pred": "Blue Screen of Death (BSOD)", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001091.jpg", "pred": "Molten material", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001092.jpg", "pred": "Laptop and knitting.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001093.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001094.jpg", "pred": "Cigarette warning label.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001095.jpg", "pred": "File system on C:", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001096.jpg", "pred": "Blue Screen of Death.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001097.jpg", "pred": "Carbon, hydrogen, oxygen, nitrogen", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001098.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001099.jpg", "pred": "Microsoft Security Report", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001100.jpg", "pred": "check www.superfreevpn.com", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001101.jpg", "pred": "Installing Windows 8 Consumer Preview.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001102.jpg", "pred": "Press Tab, then Spacebar.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001103.jpg", "pred": "Credit card", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001104.jpg", "pred": "System Restore prompt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001105.jpg", "pred": "Yes, it is.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001106.jpg", "pred": "Windows setup boot options.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001107.jpg", "pred": "Requires removable media.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001108.jpg", "pred": "Lowest", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001109.jpg", "pred": "Blue desktop background.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001110.jpg", "pred": "Windows boot file missing.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001111.jpg", "pred": "Windows Vista license agreement.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001112.jpg", "pred": "MacBook Air", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001113.jpg", "pred": "PXE boot failure.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001114.jpg", "pred": "Power adapter insufficient.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001115.jpg", "pred": "Windows Boot Manager, select a tool.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001116.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001117.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001118.jpg", "pred": "System on C:\nFile system is NTFS.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001119.jpg", "pred": "Food packaging label.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001120.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001121.jpg", "pred": "Yes, there is blood.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001122.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001123.jpg", "pred": "Blue Screen of Death (BSOD)", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001124.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001125.jpg", "pred": "Laptop and papers.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001126.jpg", "pred": "Windows is loading files...", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001127.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001128.jpg", "pred": "Installing Windows.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001129.jpg", "pred": "HKO", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001130.jpg", "pred": "System Restore prompt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001131.jpg", "pred": "Midtown Manhattan, New York City.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001132.jpg", "pred": "It's progressing.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001133.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001134.jpg", "pred": "Software update installing.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001135.jpg", "pred": "Error message displayed.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001136.jpg", "pred": "V0CZT", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001137.jpg", "pred": "City of Houston utility notice.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001138.jpg", "pred": "Oklahoma City rail yard.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001139.jpg", "pred": "iPad screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001140.jpg", "pred": "Laptop on a wooden surface, displaying Facebook.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001141.jpg", "pred": "HDD: PM-ST9250315AS", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001142.jpg", "pred": "Waiting for selection.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001143.jpg", "pred": "Overcast and cloudy.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001144.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001145.jpg", "pred": "On.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001146.jpg", "pred": "USB: USB DISK Pro, 3rd position.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001147.jpg", "pred": "Not really.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001148.jpg", "pred": "Language selection menu.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001149.jpg", "pred": "OS X Utilities", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001150.jpg", "pred": "Windows Pictures options.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001151.jpg", "pred": "Please select boot device.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001152.jpg", "pred": "**Dialogue box says:** \"Windows Firewall\"\n\n**Highlighted:** \"Block all incoming connections, including those in the list above\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001153.jpg", "pred": "Windows 8 setup screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001154.jpg", "pred": "pAb2r2nd", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001155.jpg", "pred": "NC 45-7776", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001156.jpg", "pred": "You Checked Gender!", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001157.jpg", "pred": "Architectural sketches.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001158.jpg", "pred": "\"Back in 10 mins\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001159.jpg", "pred": "TV screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001160.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001161.jpg", "pred": "Trinity University of Asia announcements.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001162.jpg", "pred": "Trinity University of Asia announcements for students.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001163.jpg", "pred": "Religious icon detail.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001164.jpg", "pred": "Cracked yellow surface.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001165.jpg", "pred": "Texas Longhorns shirt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001166.jpg", "pred": "Lip gloss tube.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001167.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001168.jpg", "pred": "Coca-Cola button.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001169.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001170.jpg", "pred": "Italian cream puffs.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001171.jpg", "pred": "Cast iron plant.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001172.jpg", "pred": "Stouffer's Alfredo pasta.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001173.jpg", "pred": "Jeans: Dark blue.\nShirt: Green, navy, and white.\nMatch: No.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001174.jpg", "pred": "Yes, the light is on.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001175.jpg", "pred": "Laptop screen with glare.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001176.jpg", "pred": "Trouble-Free Steaks", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001177.jpg", "pred": "Red and gray.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001178.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001179.jpg", "pred": "Laptop keyboard.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001180.jpg", "pred": "Shrek Collection DVD", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001181.jpg", "pred": "Water bottle.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001182.jpg", "pred": "Sweet potato chips.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001183.jpg", "pred": "Budweiser beer bottles.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001184.jpg", "pred": "Artichoke capsules.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001185.jpg", "pred": "Use Washer/Dryer\nSwipe Card", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001186.jpg", "pred": "Cream of celery soup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001187.jpg", "pred": "Yes, same color.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001188.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001189.jpg", "pred": "Man in a shirt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001190.jpg", "pred": "Campbell's Tomato Soup", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001191.jpg", "pred": "Blood orange", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001192.jpg", "pred": "Textured wall.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001193.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001194.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001195.jpg", "pred": "Pepsi can.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001196.jpg", "pred": "Living room setup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001197.jpg", "pred": "Pain Relief PM caplets", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001198.jpg", "pred": "Baking powder", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001199.jpg", "pred": "72 degrees", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001200.jpg", "pred": "Woolite detergent", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001201.jpg", "pred": "123/80", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001202.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001203.jpg", "pred": "Teal blue.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001204.jpg", "pred": "Legs with socks.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001205.jpg", "pred": "iPad 2", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001206.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001207.jpg", "pred": "Flashlight", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001208.jpg", "pred": "ESPN NFL 2K", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001209.jpg", "pred": "Frozen turkey dinner.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001210.jpg", "pred": "Yogurt container label.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001211.jpg", "pred": "Off-white or cream.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001212.jpg", "pred": "Blue.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001213.jpg", "pred": "Lilly Pulitzer agenda", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001214.jpg", "pred": "Scrambled Egg Patties", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001215.jpg", "pred": "KC Masterpiece BBQ sauce", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001216.jpg", "pred": "The Help", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001217.jpg", "pred": "Tea cup, cigarette pack, window.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001218.jpg", "pred": "Cracked MacBook Pro screen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001219.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001220.jpg", "pred": "Perfect Strength fragrance.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001221.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001222.jpg", "pred": "Car seat back.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001223.jpg", "pred": "Forest of Spirits", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001224.jpg", "pred": "Salad dressing.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001225.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001226.jpg", "pred": "Pencil drawing of a woman and child.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001227.jpg", "pred": "Plug it in.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001228.jpg", "pred": "Unanswerable.", "acc": 0.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001229.jpg", "pred": "Forest floor with leaves.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001230.jpg", "pred": "Jet Fuel", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001231.jpg", "pred": "Ready in 10 minutes.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001232.jpg", "pred": "Antihistamine medication.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001233.jpg", "pred": "Tonal Materials in Music", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001234.jpg", "pred": "Avlon Advanced Cell Therapy", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001235.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001236.jpg", "pred": "Bath soaks package.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001237.jpg", "pred": "Angelfish", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001238.jpg", "pred": "Man running, panicked expression.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001239.jpg", "pred": "Delete Partition", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001240.jpg", "pred": "Hand sanitizer.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001241.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001242.jpg", "pred": "Special Lasagne", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001243.jpg", "pred": "HP computer mouse.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001244.jpg", "pred": "Sky remote control.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001245.jpg", "pred": "Raw beef steak.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001246.jpg", "pred": "Gray and white.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001247.jpg", "pred": "Dec 28, 2013", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001248.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001249.jpg", "pred": "Capzasin pain reliever", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001250.jpg", "pred": "Cross on a wall.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001251.jpg", "pred": "Looks like it's in heat.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001252.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001253.jpg", "pred": "One Piece characters.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001254.jpg", "pred": "White.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001255.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001256.jpg", "pred": "Light brown/golden.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001257.jpg", "pred": "Coral or salmon.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001258.jpg", "pred": "Braille keyboard device.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001259.jpg", "pred": "Pregnancy test bottle.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001260.jpg", "pred": "Punch holes in the top.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001261.jpg", "pred": "Prayer rug and bottle.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001262.jpg", "pred": "Butterfinger cereal.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001263.jpg", "pred": "Water filter.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001264.jpg", "pred": "Heart shape.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001265.jpg", "pred": "Sprint", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001266.jpg", "pred": "Dark gray/blue.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001267.jpg", "pred": "Gradient background.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001268.jpg", "pred": "Wine bottle label.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001269.jpg", "pred": "Antler", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001270.jpg", "pred": "Silver/Gray", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001271.jpg", "pred": "White paper and pen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001272.jpg", "pred": "The Santa Clause", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001273.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001274.jpg", "pred": "Chihuahua mix.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001275.jpg", "pred": "Baked beans.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001276.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001277.jpg", "pred": "UAH hoodie, purple.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001278.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001279.jpg", "pred": "Cordless phone system.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001280.jpg", "pred": "Top right, pointing to \"15\".", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001281.jpg", "pred": "Patient medication reminder.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001282.jpg", "pred": "Cinnamon Pastry coffee.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001283.jpg", "pred": "Christmas tree of Santas.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001284.jpg", "pred": "Rocky Mountain chocolate.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001285.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001286.jpg", "pred": "Vans shoes.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001287.jpg", "pred": "Baked turkey.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001288.jpg", "pred": "Floral and bird print.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001289.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001290.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001291.jpg", "pred": "Water bottle.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001292.jpg", "pred": "Sweet and Sour Chicken.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001293.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001294.jpg", "pred": "Thai comic magazine.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001295.jpg", "pred": "Wooden door.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001296.jpg", "pred": "Walmart", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001297.jpg", "pred": "Dr Pepper shirt", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001298.jpg", "pred": "Puck processed cheese spread.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001299.jpg", "pred": "Green and brown plaid.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001300.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001301.jpg", "pred": "Biscuit tin.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001302.jpg", "pred": "Automatic door stop.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001303.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001304.jpg", "pred": "Cleaning product bottle.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001305.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001306.jpg", "pred": "Grayish-blue.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001307.jpg", "pred": "Coca-Cola", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001308.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001309.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001310.jpg", "pred": "15.0A, 395W", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001311.jpg", "pred": "Cream, purple, and green.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001312.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001313.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001314.jpg", "pred": "On a table.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001315.jpg", "pred": "Honey Lemon Cough Drops", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001316.jpg", "pred": "Panasonic Viera remote.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001317.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001318.jpg", "pred": "Yes, it is.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001319.jpg", "pred": "Garden Retreat Chime-Harmony", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001320.jpg", "pred": "Vintage pin/badge.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001321.jpg", "pred": "Blue marker.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001322.jpg", "pred": "Scale control panel.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001323.jpg", "pred": "Seatbelt buckle opener.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001324.jpg", "pred": "Retro floral fabric.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001325.jpg", "pred": "Savoiardi biscuits.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001326.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001327.jpg", "pred": "Cranberry juice.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001328.jpg", "pred": "Multivitamin supplement.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001329.jpg", "pred": "Recording setup.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001330.jpg", "pred": "Drumhead with wear.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001331.jpg", "pred": "Unanswerable.", "acc": 0.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001332.jpg", "pred": "Premium Croutons", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001333.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001334.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001335.jpg", "pred": "Condom wrapper.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001336.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001337.jpg", "pred": "Please,\nat.\nTotal", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001338.jpg", "pred": "Mango", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001339.jpg", "pred": "Chopped tomatoes.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001340.jpg", "pred": "Create TXT", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001341.jpg", "pred": "Balance Rewards card.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001342.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001343.jpg", "pred": "Eye of Providence on a dollar bill.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001344.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001345.jpg", "pred": "Nature Valley granola bars.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001346.jpg", "pred": "WiFi adapter for Smart TV.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001347.jpg", "pred": "Texas flag", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001348.jpg", "pred": "Carpet and pen.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001349.jpg", "pred": "Dachshund dog.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001350.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001351.jpg", "pred": "Strawberry candy.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001352.jpg", "pred": "Manhattan clam chowder.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001353.jpg", "pred": "Grayish-green", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001354.jpg", "pred": "White.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001355.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001356.jpg", "pred": "Sliced carrots.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001357.jpg", "pred": "The Word", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001358.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001359.jpg", "pred": "Dark night sky.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001360.jpg", "pred": "Canned tomatoes.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001361.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001362.jpg", "pred": "5g total fat.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001363.jpg", "pred": "easyspirit, Gravity Slippers", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001364.jpg", "pred": "Cleaning product bottle.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001365.jpg", "pred": "Hamburger Helper", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001366.jpg", "pred": "96.2", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001367.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001368.jpg", "pred": "Unanswerable.", "acc": 0.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001369.jpg", "pred": "Pan juice bottle.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001370.jpg", "pred": "iPad with wallpaper", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001371.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001372.jpg", "pred": "Carpet texture.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001373.jpg", "pred": "Lego car and minifigure.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001374.jpg", "pred": "Spiral-bound notebook.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001375.jpg", "pred": "Important information about juicer use.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001376.jpg", "pred": "Everything's Amazing (sort of)", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001377.jpg", "pred": "Yes, it looks sunny.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001378.jpg", "pred": "Dark blue.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001379.jpg", "pred": "Pink Lemonade", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001380.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001381.jpg", "pred": "No, there is no chess piece.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001382.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001383.jpg", "pred": "Salmon and tuna.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001384.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001385.jpg", "pred": "Yes, I see the river.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001386.jpg", "pred": "TV remote control.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001387.jpg", "pred": "$150 Chase Gift Card.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001388.jpg", "pred": "Bush's Baked Beans", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001389.jpg", "pred": "Guava ginseng tea.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001390.jpg", "pred": "Windows error message.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001391.jpg", "pred": "HP Photosmart scanner", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001392.jpg", "pred": "FedEx.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001393.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001394.jpg", "pred": "Food packaging.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001395.jpg", "pred": "Canned drinks.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001396.jpg", "pred": "Diet Pepsi Max", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001397.jpg", "pred": "TV remote control.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001398.jpg", "pred": "Boca veggie burgers.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001399.jpg", "pred": "Coca-Cola", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001400.jpg", "pred": "Mountain Dew Code Red", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001401.jpg", "pred": "Old landline phone.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001402.jpg", "pred": "Grayish-blue.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001403.jpg", "pred": "Black", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001404.jpg", "pred": "Pinto beans", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001405.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001406.jpg", "pred": "Computer mouse.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001407.jpg", "pred": "MacBook Pro", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001408.jpg", "pred": "100 degrees.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001409.jpg", "pred": "Pepsi", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001410.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001411.jpg", "pred": "Wedding ring.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001412.jpg", "pred": "Plaid shirt/blanket.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001413.jpg", "pred": "Oreo Double Stuf cookies.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001414.jpg", "pred": "Gradient background.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001415.jpg", "pred": "Yes, it appears to be.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001416.jpg", "pred": "Mango & Papaya Bath & Shower Gel.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001417.jpg", "pred": "Bleu Classic cologne.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001418.jpg", "pred": "D8KK", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001419.jpg", "pred": "Black.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001420.jpg", "pred": "Black and gray.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001421.jpg", "pred": "The Wizard of Oz", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001422.jpg", "pred": "Pink and yellow.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001423.jpg", "pred": "LG", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001424.jpg", "pred": "Bath & Body Works gift card.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001425.jpg", "pred": "Playground equipment.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001426.jpg", "pred": "Spot Shot carpet stain remover.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001427.jpg", "pred": "Victoria's Secret Pink scrub", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001428.jpg", "pred": "Dark Chocolate, Peanut & Almond", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001429.jpg", "pred": "Dairy Creamer, Vanilla Whipped", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001430.jpg", "pred": "\"Apple Pay\"", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001431.jpg", "pred": "Frozen vegetables and noodles.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001432.jpg", "pred": "Sunny, sunset at 8:15 PM.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001433.jpg", "pred": "Start/Pause.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001434.jpg", "pred": "Cyberpad 400 Tabletop", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001435.jpg", "pred": "26 degrees.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001436.jpg", "pred": "Green tiled floor.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001437.jpg", "pred": "University of Florida logo.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001438.jpg", "pred": "Chicken, peas, and gravy.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001439.jpg", "pred": "Yes, it appears to be finished.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001440.jpg", "pred": "Red, black, white.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001441.jpg", "pred": "Birds Eye, Oven Fish Fillets", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001442.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001443.jpg", "pred": "Stairs, rug, furniture.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001444.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001445.jpg", "pred": "Euphoria", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001446.jpg", "pred": "Sweet corn kernels.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001447.jpg", "pred": "The Seventies", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001448.jpg", "pred": "Cherry Coca-Cola", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001449.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001450.jpg", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001451.jpg", "pred": "Tomatoes, soybean oil, sugar, salt, onion, etc.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001452.jpg", "pred": "Unanswerable", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001453.jpg", "pred": "\"Oh, Great Spirit...\" prayer.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001454.jpg", "pred": "Dehumidifier", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001455.jpg", "pred": "Office space.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001456.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001457.jpg", "pred": "Window shade holder.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001458.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001459.jpg", "pred": "Gold or silver.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001460.jpg", "pred": "Tim Hortons Hazelnut K-Cup", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001461.jpg", "pred": "Pink.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001462.jpg", "pred": "White.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001463.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001464.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001465.jpg", "pred": "Unanswerable.", "acc": 0.3333333333333333, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001466.jpg", "pred": "110:42", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001467.jpg", "pred": "Foot with a cut.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001468.jpg", "pred": "Purple and yellow shirt.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001469.jpg", "pred": "Chips Ahoy!", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001470.jpg", "pred": "Smartwater bottle.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001471.jpg", "pred": "Whites and Colors", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001472.jpg", "pred": "Black.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001473.jpg", "pred": "Blurry refrigerator magnets.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001474.jpg", "pred": "Laptop keyboard.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001475.jpg", "pred": "Unanswerable.", "acc": 0.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001476.jpg", "pred": "Indian tonic water", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001477.jpg", "pred": "Breakfast and salad options.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001478.jpg", "pred": "Power conditioner.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001479.jpg", "pred": "No smoking, $5000 penalty.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001480.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001481.jpg", "pred": "Thomas the Tank Engine", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001482.jpg", "pred": "iPhone 5 box", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001483.jpg", "pred": "Yes, it will.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001484.jpg", "pred": "Left: Dove, Right: Lady Speed Stick", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001485.jpg", "pred": "Coffee mug.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001486.jpg", "pred": "LG", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001487.jpg", "pred": "Georgia Tech", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001488.jpg", "pred": "Coca-Cola", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001489.jpg", "pred": "Tomato seed", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001490.jpg", "pred": "ABBA: The Movie", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001491.jpg", "pred": "Chocolate pudding.", "acc": 1.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001492.jpg", "pred": "Bupropion 150 mg", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001493.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}
+{"id": "vizwiz_val_VizWiz_val_00001494.jpg", "pred": "A house at night.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001495.jpg", "pred": "Soup packets", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001496.jpg", "pred": "White or off-white.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001497.jpg", "pred": "A knife.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001498.jpg", "pred": "Old BlackBerry phone.", "acc": 0.0, "abstain": false}
+{"id": "vizwiz_val_VizWiz_val_00001499.jpg", "pred": "Unanswerable.", "acc": 1.0, "abstain": true}

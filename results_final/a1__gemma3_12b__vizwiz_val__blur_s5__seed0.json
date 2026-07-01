@@ -1,0 +1,13 @@
+{
+  "uid": "a1__gemma3_12b__vizwiz_val__blur_s5__seed0",
+  "paper": "a1",
+  "model": "gemma3_12b",
+  "dataset": "vizwiz_val",
+  "condition": "blur_s5",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.5060000000000003,
+  "wall_s": 871.8,
+  "peak_vram_gb": 24.58,
+  "items_file": "results_final/a1__gemma3_12b__vizwiz_val__blur_s5__seed0.items.jsonl"
+}

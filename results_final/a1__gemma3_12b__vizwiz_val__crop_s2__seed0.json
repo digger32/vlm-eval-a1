@@ -1,0 +1,13 @@
+{
+  "uid": "a1__gemma3_12b__vizwiz_val__crop_s2__seed0",
+  "paper": "a1",
+  "model": "gemma3_12b",
+  "dataset": "vizwiz_val",
+  "condition": "crop_s2",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.3297777777777777,
+  "wall_s": 884.9,
+  "peak_vram_gb": 24.58,
+  "items_file": "results_final/a1__gemma3_12b__vizwiz_val__crop_s2__seed0.items.jsonl"
+}
