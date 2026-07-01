@@ -1,0 +1,13 @@
+{
+  "uid": "a1__llava16_7b__vqav2_val__blind__seed0",
+  "paper": "a1",
+  "model": "llava16_7b",
+  "dataset": "vqav2_val",
+  "condition": "blind",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.4373333333333332,
+  "wall_s": 114.5,
+  "peak_vram_gb": 14.17,
+  "items_file": "results_imgq2/a1__llava16_7b__vqav2_val__blind__seed0.items.jsonl"
+}

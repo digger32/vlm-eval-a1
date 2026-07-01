@@ -1,0 +1,13 @@
+{
+  "uid": "a1__internvl3_8b__vizwiz_val__blind__seed0",
+  "paper": "a1",
+  "model": "internvl3_8b",
+  "dataset": "vizwiz_val",
+  "condition": "blind",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.009555555555555557,
+  "wall_s": 637.6,
+  "peak_vram_gb": 15.91,
+  "items_file": "results_imgq2/a1__internvl3_8b__vizwiz_val__blind__seed0.items.jsonl"
+}

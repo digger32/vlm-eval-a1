@@ -1,0 +1,13 @@
+{
+  "uid": "a1__qwen25vl_7b__vqav2_val__clean__seed0",
+  "paper": "a1",
+  "model": "qwen25vl_7b",
+  "dataset": "vqav2_val",
+  "condition": "clean",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.8382222222222219,
+  "wall_s": 258.4,
+  "peak_vram_gb": 16.72,
+  "items_file": "results_imgq2/a1__qwen25vl_7b__vqav2_val__clean__seed0.items.jsonl"
+}

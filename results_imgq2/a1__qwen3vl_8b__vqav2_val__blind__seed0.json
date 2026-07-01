@@ -1,0 +1,13 @@
+{
+  "uid": "a1__qwen3vl_8b__vqav2_val__blind__seed0",
+  "paper": "a1",
+  "model": "qwen3vl_8b",
+  "dataset": "vqav2_val",
+  "condition": "blind",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.23133333333333322,
+  "wall_s": 264.5,
+  "peak_vram_gb": 17.55,
+  "items_file": "results_imgq2/a1__qwen3vl_8b__vqav2_val__blind__seed0.items.jsonl"
+}

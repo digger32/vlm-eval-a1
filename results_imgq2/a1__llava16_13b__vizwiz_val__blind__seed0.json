@@ -1,0 +1,13 @@
+{
+  "uid": "a1__llava16_13b__vizwiz_val__blind__seed0",
+  "paper": "a1",
+  "model": "llava16_13b",
+  "dataset": "vizwiz_val",
+  "condition": "blind",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.08955555555555553,
+  "wall_s": 584.1,
+  "peak_vram_gb": 26.83,
+  "items_file": "results_imgq2/a1__llava16_13b__vizwiz_val__blind__seed0.items.jsonl"
+}

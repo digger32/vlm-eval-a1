@@ -1,0 +1,13 @@
+{
+  "uid": "a1__internvl35_8b__vizwiz_val__clean__seed0",
+  "paper": "a1",
+  "model": "internvl35_8b",
+  "dataset": "vizwiz_val",
+  "condition": "clean",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.23066666666666663,
+  "wall_s": 1069.1,
+  "peak_vram_gb": 17.98,
+  "items_file": "results_imgq2/a1__internvl35_8b__vizwiz_val__clean__seed0.items.jsonl"
+}

@@ -1,0 +1,13 @@
+{
+  "uid": "a1__pixtral_12b__vizwiz_val__blind__seed0",
+  "paper": "a1",
+  "model": "pixtral_12b",
+  "dataset": "vizwiz_val",
+  "condition": "blind",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.03800000000000001,
+  "wall_s": 708.5,
+  "peak_vram_gb": 25.4,
+  "items_file": "results_imgq2/a1__pixtral_12b__vizwiz_val__blind__seed0.items.jsonl"
+}

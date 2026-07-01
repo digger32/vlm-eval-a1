@@ -1,0 +1,1500 @@
+{"id": "vqav2_val_262148000", "pred": "At the camera.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262148001", "pred": "Standing and watching.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262148002", "pred": "A roof", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393225000", "pred": "Cannot determine from image alone.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393225001", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393225002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393225003", "pred": "Salad", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393226000", "pred": "Walking", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393226001", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393226002", "pred": "Fresh produce", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_240301000", "pred": "Expansion and weatherproofing.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_240301001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_240301002", "pred": "Resting or sleeping", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131089000", "pred": "Green", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131089001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131089002", "pred": "Three.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131089003", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131089004", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262162000", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162001", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162002", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262162003", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162004", "pred": "Yes", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262162005", "pred": "Many.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162006", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262162007", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162008", "pred": "Yes, very big.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162009", "pred": "Wood and metal.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162010", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262162011", "pred": "Living room", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162012", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262162013", "pred": "Yes, possibly.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162014", "pred": "No, not yet.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162015", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262162016", "pred": "No mirror.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162017", "pred": "Bedroom", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262162018", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162019", "pred": "Yes, very.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162020", "pred": "Yes, it has.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162021", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162022", "pred": "Five frames.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162023", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262162024", "pred": "No boxes here.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162025", "pred": "Yes, potentially.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162026", "pred": "Zebra", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162027", "pred": "Bed frame or floor", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162028", "pred": "Queen size", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262162029", "pred": "Five pictures.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393243000", "pred": "Probably not.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393243001", "pred": "Pizza", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393243002", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393243003", "pred": "Brown", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262175000", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262175001", "pred": "On a train.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262175002", "pred": "Hat", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262175003", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131108000", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131108001", "pred": "Inward", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131108002", "pred": "No drainage visible.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393254000", "pred": "Top sentence says: \"Welcome to our website.\"", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393254001", "pred": "Truck", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393254002", "pred": "In the backyard.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_42000", "pred": "Black", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_42001", "pred": "No red sandal here.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_42002", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131115000", "pred": "Yes, usually.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131115001", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131115002", "pred": "11", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262189000", "pred": "Five.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262189001", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262189002", "pred": "No parking.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393266000", "pred": "Red", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393266001", "pred": "No, you cannot turn.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393266002", "pred": "Green", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393267000", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393267001", "pred": "Coffee beverage", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393267002", "pred": "Protection, style, or tradition.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393267003", "pred": "Social gathering", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262197000", "pred": "Thousands worldwide.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262197001", "pred": "Gray", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262197002", "pred": "Yes, there is.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262197003", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262197004", "pred": "Yes, lights are on.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262197005", "pred": "Five stories", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262197006", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262197007", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262197008", "pred": "One color", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262197009", "pred": "Nothing. He's walking alone.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262197010", "pred": "Five", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262197011", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393271000", "pred": "No, it is not snowing.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393271001", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393271002", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262200000", "pred": "Not necessarily.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262200001", "pred": "Independence Day", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262200002", "pred": "Child", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393274000", "pred": "Car", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393274001", "pred": "No, I can't see it.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393274002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393274003", "pred": "A type of spell or magical effect.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393274004", "pred": "Supporting framework", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393274005", "pred": "No smoke.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393274006", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393274007", "pred": "Yes, tracks are clear.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131131000", "pred": "Domestic shorthair", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131131001", "pred": "Logarithm base 10", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131131002", "pred": "0", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277000", "pred": "Yes, many cities offer tour buses.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277001", "pred": "Statue of liberty", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277002", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393277003", "pred": "2023", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277004", "pred": "Blue", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393277005", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277006", "pred": "Yes, many people milling around.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277007", "pred": "Yes, it is large.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277008", "pred": "Sunny and warm.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277009", "pred": "White", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_393277010", "pred": "I don't have access to real-time data, including the current time. You can check your device's clock for the exact time.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277011", "pred": "It depends on the location.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277012", "pred": "Eiffel Tower", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277013", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277014", "pred": "No, it's two-way.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393277015", "pred": "White", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_393277016", "pred": "Clock mechanism", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282000", "pred": "No, it's an adult.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282001", "pred": "Unknown exact number.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282002", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282003", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282004", "pred": "Yes, they are wild.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282005", "pred": "Shade, ventilation, aesthetic.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282006", "pred": "No, giraffes eat leaves, not grass.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282007", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282008", "pred": "Tree trunk", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282009", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282010", "pred": "Tropical rainforests", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393282011", "pred": "Unknown \u2014 no image provided.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284000", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284001", "pred": "Bicycle", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284002", "pred": "Working on a computer.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284003", "pred": "Running", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284004", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393284005", "pred": "Yes, snow is on the trees.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284006", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393284007", "pred": "No, he\u2019s skiing down.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284008", "pred": "A suit.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284009", "pred": "Reading a book.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284010", "pred": "Checkered pattern", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284011", "pred": "Yes, he will land.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284012", "pred": "Baseball", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284013", "pred": "Air contains nitrogen, oxygen, argon, carbon dioxide, and trace gases.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393284014", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393284015", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393288000", "pred": "Historic church", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393288001", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393288002", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393288003", "pred": "In garage.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393288004", "pred": "A clock", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524361000", "pred": "In the tree.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524361001", "pred": "Three.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524361002", "pred": "Blue and white", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_74000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_74001", "pred": "On the floor", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_74002", "pred": "Running", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131152000", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131152001", "pred": "Calm and gentle.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131152002", "pred": "Just me.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131152003", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262227000", "pred": "Yes, commonly used for medication.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262227001", "pred": "Welcome sign", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262227002", "pred": "Yes, very popular.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262227003", "pred": "Blue", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262228000", "pred": "Rock, soil, minerals, organic matter.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262228001", "pred": "For security.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262228002", "pred": "Motorcycles", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262228003", "pred": "Yes, very comfortable.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262228004", "pred": "To a rack or post", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262228005", "pred": "Earth", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262229000", "pred": "Smooth, controlled flight without propulsion.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262229001", "pred": "Volleyball", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262229002", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262229003", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262229004", "pred": "Men", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262229005", "pred": "Hats", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262229006", "pred": "Poker", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131159000", "pred": "On a rock.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131159001", "pred": "Yes, bears are real.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131159002", "pred": "White", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262235000", "pred": "Smiling", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262235001", "pred": "Window covering.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262235002", "pred": "Red", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262235003", "pred": "Necklace", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262235004", "pred": "The person in the photo.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262235005", "pred": "Cannot determine.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262235006", "pred": "Playing piano", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524382000", "pred": "No such thing as \"brand of dogs.\" Dogs are breeds, not brands.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524382001", "pred": "Leash or fence.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524382002", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262242000", "pred": "Tennis ball", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262242001", "pred": "Net", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262242002", "pred": "Yes, he enjoys tennis.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262242003", "pred": "Green", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262242004", "pred": "Possibly, depends on context.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262242005", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262242006", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262242007", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262242008", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131171000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131171001", "pred": "Two bins.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131171002", "pred": "Yes, balanced and nutritious.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161000", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161001", "pred": "Yes, it's new.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161002", "pred": "Yes, usually.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161003", "pred": "Rack", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161004", "pred": "Identification or registration number.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161005", "pred": "Identification and tracking.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161006", "pred": "Scooter maker: Honda, Yamaha, Vespa, etc.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161007", "pred": "Red", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262161008", "pred": "Single seat", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161009", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161010", "pred": "Cloud or sky", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161011", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161012", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161013", "pred": "Red bike", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161014", "pred": "No, it doesn't travel often.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161015", "pred": "Black", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262161016", "pred": "Reality TV show", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161017", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262161018", "pred": "No number visible.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161019", "pred": "Bicycle make: Trek", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262161020", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524392000", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524392001", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524392002", "pred": "Cooking food", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262262000", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262262001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262262002", "pred": "Residential building", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393338000", "pred": "Red and white", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393338001", "pred": "Roses", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_393338002", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262274000", "pred": "The surfer.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262274001", "pred": "\"Surf's Up\"", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262274002", "pred": "Nothing is written on the board.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262274003", "pred": "Several.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262274004", "pred": "Check weather app.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262274005", "pred": "Check local tide chart.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262274006", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262274007", "pred": "Check the sky.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262275000", "pred": "16 years old", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262275001", "pred": "Black", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262275002", "pred": "No, she\u2019s not.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262275003", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262275004", "pred": "Hat", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_133000", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_133001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_133002", "pred": "Twin or Full", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131207000", "pred": "Three.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131207001", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131207002", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131207003", "pred": "Yes, it looks calm.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131207004", "pred": "Blue and yellow.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131207005", "pred": "Sparrows", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131207006", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131207007", "pred": "Yes.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_136000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_136001", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_136002", "pred": "Raccoon", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_139000", "pred": "Sitting and talking.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_139001", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_139002", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_139003", "pred": "Red", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262284000", "pred": "One set.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262284001", "pred": "A question asking for a brief response.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262284002", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262284003", "pred": "Living room", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_143000", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_143001", "pred": "Three.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_143002", "pred": "Many birds are black.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_240323000", "pred": "No meat here.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_240323001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_240323002", "pred": "Unripe fruit", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524436000", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524436001", "pred": "On a bench.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524436002", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524436003", "pred": "Chair", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524436004", "pred": "I don't have access to real-time weather data. Check a weather app or website.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524436005", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372000", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393372001", "pred": "Yes, her eyes can be seen.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393372003", "pred": "Black", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372004", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372005", "pred": "Cannot determine.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372006", "pred": "Cannot determine.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372007", "pred": "Nose piercing", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372008", "pred": "Left ear", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372009", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372010", "pred": "Brown", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372011", "pred": "T-shirt", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372012", "pred": "Blue", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393372013", "pred": "Brown", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372014", "pred": "Unconventional hairstyle or clothing.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372015", "pred": "Straight", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393372016", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393372017", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372018", "pred": "No, it's uneven.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372019", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393372020", "pred": "Surprised", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372021", "pred": "It depends on context.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393372022", "pred": "Yes, often visible.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450000", "pred": "Flatbed trucks", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450001", "pred": "In the pond.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450002", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524450003", "pred": "Not necessarily.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450004", "pred": "Car", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450005", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450006", "pred": "Rain, melting snow, or leakage.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450007", "pred": "To pick up/drop off passengers.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450008", "pred": "Red", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450009", "pred": "Motorcycle", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450010", "pred": "Yes, people are inside.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450011", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450012", "pred": "A phone", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450013", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450014", "pred": "Midday", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450015", "pred": "Five people.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450016", "pred": "Yes, some people are.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450017", "pred": "Sunny and warm.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450018", "pred": "Yes, trash can.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450019", "pred": "Main feature: [Context-dependent]  \n*(Please provide the context or image for a specific answer.)*", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450020", "pred": "Concrete, asphalt, or stone.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450021", "pred": "White", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524450022", "pred": "No, bus lights are on top.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450023", "pred": "Bicycle", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524450024", "pred": "At the bus stop.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_164000", "pred": "Depends on usage.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_164001", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_164002", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_164003", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524456000", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524456001", "pred": "Not necessarily.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524456002", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524459000", "pred": "Pig", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524459001", "pred": "Laptop", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524459002", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_436936000", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_436936001", "pred": "Tree branch", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_436936002", "pred": "Elephant", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262323000", "pred": "Nothing specific \u2014 just background.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262323001", "pred": "Both are mammals.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262323002", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262323003", "pred": "No, giraffe head is large.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262325000", "pred": "Very green.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262325001", "pred": "It depends on the snack.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262325002", "pred": "No, they are raw.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262325003", "pred": "Plate", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262334000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262334001", "pred": "Baseball cap", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262334002", "pred": "Inside", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262334003", "pred": "Wood, tile, concrete, or carpet.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_192000", "pred": "Baseball", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_192001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_192002", "pred": "Team names vary by context.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393410000", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393410001", "pred": "Taking off", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393410002", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393410003", "pred": "Yes, it's getting dark.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393410004", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393410005", "pred": "Birds", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393410006", "pred": "Yes, usually.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393410007", "pred": "Depends on context and regulations.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393410008", "pred": "Blue", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393410009", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393410010", "pred": "Stars, clouds, moon, sun.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393411000", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393411001", "pred": "Passengers and cargo.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393411002", "pred": "Tagging", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_196000", "pred": "Banana", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_196001", "pred": "Yes, plenty of healthy options.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_196002", "pred": "Five.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_196003", "pred": "Three", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_196004", "pred": "Probably not.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131273000", "pred": "Mixed breed", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131273001", "pred": "At the camera.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131273002", "pred": "Closed", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262347000", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262347001", "pred": "No beehive visible.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262347002", "pred": "Tulips", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262347003", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131276000", "pred": "No.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_131276001", "pred": "One", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131276002", "pred": "Fast food", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393421000", "pred": "Kitchen", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393421001", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393421002", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393421003", "pred": "Emitting light.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393421004", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393421005", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393423000", "pred": "Unknown \u2014 no image provided.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393423001", "pred": "In the savanna.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393423002", "pred": "Yes, some are in zoos.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393423003", "pred": "Statue of Liberty", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393423004", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393423005", "pred": "New York City", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393423006", "pred": "Standing and grazing.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393423007", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131280000", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131280001", "pred": "Two teams.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131280002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262353000", "pred": "Cannot determine.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262353001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262353002", "pred": "Yes, they know each other.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131282000", "pred": "\"Drink Me\"", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131282001", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131282002", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131282003", "pred": "Red", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131282004", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524502000", "pred": "Stop sign", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524502001", "pred": "Gray", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524502002", "pred": "Antenna or flagpole.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524502003", "pred": "No snow.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262360000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262360001", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262360002", "pred": "Roses", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262360003", "pred": "Red", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262360004", "pred": "No, they\u2019re alive.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262360005", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524507000", "pred": "No, cars not allowed.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524507001", "pred": "English", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524507002", "pred": "Yes, it will.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131295000", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131295001", "pred": "Yes, it is.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131295002", "pred": "High angle", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131295003", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131295004", "pred": "Roads.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131295005", "pred": "Driver", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262371000", "pred": "Yes, sleepy eyes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262371001", "pred": "On the windowsill.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262371002", "pred": "A windowsill", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262371003", "pred": "A rock", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262371004", "pred": "Curious and playful", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262371005", "pred": "Mouse.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262371006", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262376000", "pred": "No, flowers are not on umbrellas.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262376001", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262376002", "pred": "Yes, it's large.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_241000", "pred": "Chair", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_241001", "pred": "Joy, excitement, surprise", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_241002", "pred": "A bag", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_241003", "pred": "Not necessarily.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_241004", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386000", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386001", "pred": "Toilet paper holder", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386002", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386003", "pred": "People who need them.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386004", "pred": "No, they need to be moved.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386005", "pred": "Usually not.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386006", "pred": "No", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262386007", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386008", "pred": "No, toilets are usually ceramic.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386009", "pred": "Real", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386010", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386011", "pred": "Unknown photographer", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386012", "pred": "Gas", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262386013", "pred": "No, it's clean.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386014", "pred": "Original creator or photographer.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386015", "pred": "Yes, they are complete.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386016", "pred": "Yes, please.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386017", "pred": "Square", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386018", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386019", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386020", "pred": "No lit.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386021", "pred": "Yes, in designated areas.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386022", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386023", "pred": "Over", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386024", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386025", "pred": "Yes, clean.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386026", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386027", "pred": "No, only one species allowed.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386028", "pred": "Porcelain", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386029", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386030", "pred": "Yes, very clean.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386031", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386032", "pred": "Porcelain", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386033", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386034", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386035", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386036", "pred": "No, it's broken.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386037", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386038", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386039", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262386040", "pred": "Hanging tools or equipment.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386041", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262386042", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524533000", "pred": "Advertising on buses.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524533001", "pred": "Not gaudy.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524533002", "pred": "American flag", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262391000", "pred": "No, curtains block view.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262391001", "pred": "No, they\u2019re perfect length.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262391002", "pred": "Microscope", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262391003", "pred": "No, they\u2019re perfect.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262391004", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262391005", "pred": "One.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262391006", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524536000", "pred": "Playing guitar.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524536001", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524536002", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524536003", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524536004", "pred": "Barack Obama", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524536005", "pred": "Business meeting", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524536006", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_510657000", "pred": "Not necessarily.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_510657001", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_510657002", "pred": "Three.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_510657003", "pred": "Just me.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_510657004", "pred": "Stripes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_510657005", "pred": "Light fixture", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_510657006", "pred": "Four", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262396000", "pred": "A windowsill", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262396001", "pred": "Gray", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262396002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393469000", "pred": "It depends on the season and location.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393469001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393469002", "pred": "Black", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_257000", "pred": "Red", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_257001", "pred": "Maybe, check local listings.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_257002", "pred": "Yes, it is daytime.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_257003", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_257004", "pred": "Nike", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_257005", "pred": "Red", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262404000", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262404001", "pred": "Children", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262404002", "pred": "The person speaking.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393478000", "pred": "Red and white", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393478001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393478002", "pred": "No snow on ground.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393478003", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131335000", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131335001", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131335002", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131335003", "pred": "Theater name: Elbphilharmonie", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131335004", "pred": "No flag visible.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524333000", "pred": "Wood and metal.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524333001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524333002", "pred": "Yes, they are learning.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524333003", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524333004", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524333005", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262425000", "pred": "Check the sky.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262425001", "pred": "No, seagull is not entangled.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262425002", "pred": "Yes, sunny and warm.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262425003", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262425004", "pred": "The captain", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_283000", "pred": "Ch\u00e2teau Margaux", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_283001", "pred": "Mojito", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_283002", "pred": "Wood", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_283003", "pred": "Coffee.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_283004", "pred": "Water bottle", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_283005", "pred": "blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_283006", "pred": "No, not high quality.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_285000", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_285001", "pred": "Yes, it is daytime.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_285002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524575000", "pred": "It depends on the season and location.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524575001", "pred": "Yes, some do.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524575002", "pred": "No, some trees are bare in winter.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524575003", "pred": "No animal is in front of giraffes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577000", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577001", "pred": "Yes", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524577002", "pred": "Afternoon", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524577003", "pred": "Until 12:00 AM.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577004", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577005", "pred": "I don't have access to real-time data, including the current time. You can check your device's clock for the exact time.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577006", "pred": "Two clocks.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577007", "pred": "3:15", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577008", "pred": "10:10", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524577009", "pred": "3:15", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577010", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524577011", "pred": "Afternoon", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524577012", "pred": "It depends on the time.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577013", "pred": "3:15", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577014", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524577015", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524577016", "pred": "Depends on current time.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577017", "pred": "On the wall.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524577018", "pred": "Limestone", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577019", "pred": "Five stories", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577020", "pred": "10:10", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577021", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577022", "pred": "Gray", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577023", "pred": "Two clocks.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577024", "pred": "On the wall.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524577025", "pred": "Yes, it resembles a birdcage.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577026", "pred": "English", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524577027", "pred": "Whole numbers from 1 to 12", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524577028", "pred": "Yes", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524577029", "pred": "Two figures.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_294000", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_294001", "pred": "Smoke", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_294002", "pred": "Yes, they are.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_294003", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_294004", "pred": "The camera.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_294005", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_294006", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_294007", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_294008", "pred": "Just me.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_294009", "pred": "Holding a phone", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_294010", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_294011", "pred": "Picture frame.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_294012", "pred": "Home office", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_294013", "pred": "American", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_294014", "pred": "Candlestick", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_294015", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393511000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393511001", "pred": "Lemonade", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393511002", "pred": "No toothpicks on table.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262440000", "pred": "Down.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262440001", "pred": "Blue and white", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262440002", "pred": "Concrete and tiles", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262440003", "pred": "Two sinks.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262440004", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262440005", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262440006", "pred": "Yes, it is modern.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262440007", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262440008", "pred": "Yes.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_262440009", "pred": "Yes, plain.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262440010", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262440011", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262440012", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262440013", "pred": "Living room", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393513000", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393513001", "pred": "Check the sky.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393513002", "pred": "Above the horizon", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393513003", "pred": "No, it's cold.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393513004", "pred": "Stretching its neck.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393513005", "pred": "Hat", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393523000", "pred": "No, it's a still image.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393523001", "pred": "No one is crossing.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393523002", "pred": "Check the sky.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393523003", "pred": "New York City", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393523004", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524601000", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524601001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524601002", "pred": "PlayStation 5", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524601003", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524601004", "pred": "No, not all.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524601005", "pred": "Poker", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524601006", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524601007", "pred": "Not enough information.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524601008", "pred": "None", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524601009", "pred": "Playing outside.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524601010", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524601011", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524601012", "pred": "Two.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131386000", "pred": "White", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_131386001", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131386002", "pred": "Yes, very fast.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262460000", "pred": "Books and decor", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262460001", "pred": "Tie", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262460002", "pred": "Yes, it was picked out.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131390000", "pred": "Depends on time zone and date.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131390001", "pred": "Yes, very relaxing.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131390002", "pred": "Bear", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131390003", "pred": "Rabbits", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262466000", "pred": "Yes, freshly cut.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262466001", "pred": "Ladder", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262466002", "pred": "Corner", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262466003", "pred": "Yes, there are roses.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262466004", "pred": "White", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262466005", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262466006", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524611000", "pred": "Hard to say \u2014 constantly changing.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524611001", "pred": "Red", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524611002", "pred": "\u201cWAKE UP\u201d", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524611003", "pred": "Yes, it is.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524611004", "pred": "Right", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524611005", "pred": "Railway junction", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524611006", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524611007", "pred": "Passenger cars", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262471000", "pred": "Yes, it has.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262471001", "pred": "No parking.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262471002", "pred": "Books", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262471003", "pred": "Residential", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_262471004", "pred": "Look for signs or ask locals.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262471005", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262471006", "pred": "No parking", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262471007", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262471008", "pred": "A specific location not provided.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_328000", "pred": "Chairs", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_328001", "pred": "Private, Sergeant, Captain, General", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_328002", "pred": "U.S. Army", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_21900000", "pred": "Adult", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_21900001", "pred": "No, it's usually fixed.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_21900002", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_21900003", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_21900004", "pred": "Brown", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_393547000", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393547001", "pred": "A windowsill", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393547002", "pred": "Black", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262476000", "pred": "Yes, they are.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262476001", "pred": "Many.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262476002", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621000", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524621002", "pred": "Yes, they are eating.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621003", "pred": "Both male and female.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621004", "pred": "Young", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_524621005", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621006", "pred": "Some yes, some no.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621007", "pred": "Dog", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621008", "pred": "Polar bear", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621009", "pred": "Cat", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621010", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524621011", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524621012", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524621013", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524621014", "pred": "Playing in water.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621015", "pred": "Yes, many types.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621016", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524621017", "pred": "Two.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621018", "pred": "Deer, rabbits, rodents", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621019", "pred": "Elephant", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621020", "pred": "No passengers.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621021", "pred": "One", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621022", "pred": "Panda and koala", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621023", "pred": "Yes", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524621024", "pred": "Mineral", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621025", "pred": "12", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621026", "pred": "Many", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621027", "pred": "Spotted pattern", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621028", "pred": "Upwards", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524621029", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_338000", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_338001", "pred": "I don't have access to real-time data, including the current time. You can check your device's clock for the exact time.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_338002", "pred": "Reading a book.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524627000", "pred": "Yes, many.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524627001", "pred": "Yes, some boys have long hair.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524627002", "pred": "Glazed donuts", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393557000", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393557001", "pred": "No, they are not fighting.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393557002", "pred": "Black and white.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262487000", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262487001", "pred": "Black", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262487002", "pred": "Detective", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131416000", "pred": "Seasoning or sauce.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131416001", "pred": "Toothpick", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131416002", "pred": "Lettuce", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131416003", "pred": "Coca-Cola", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131418000", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131418001", "pred": "None", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131418002", "pred": "No, it's locked.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_546191000", "pred": "No.", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_546191001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_546191002", "pred": "Two people.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_546191003", "pred": "No, it\u2019s not a letter.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_546191004", "pred": "Yes, calm.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524637000", "pred": "Nothing specific mentioned.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524637001", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524637002", "pred": "Square", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_524637003", "pred": "A pencil.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524637004", "pred": "Tiled", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524637005", "pred": "Yes, clean.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524637006", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524637007", "pred": "Toilet seat", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524638000", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524638001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524638002", "pred": "Orange", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524638003", "pred": "A toy airplane.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393569000", "pred": "Yes, very clean.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393569001", "pred": "During a medical exam.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393569002", "pred": "Phone", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524642000", "pred": "Yes, very.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524642001", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524642002", "pred": "Africa", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_524642003", "pred": "Journals, pens, mugs", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524642004", "pred": "No.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524642005", "pred": "Unknown.", "acc": 0.0, "abstain": true}
+{"id": "vqav2_val_524642006", "pred": "Read or watch TV", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_357000", "pred": "Mystery figures in folklore and media.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_357001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_357002", "pred": "Depends on batter and pitcher.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_359000", "pred": "Sunny", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_359001", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_359002", "pred": "No, it's partially cut off.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_360000", "pred": "Yes, trees are visible.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_360001", "pred": "Jumping", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_360002", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262505000", "pred": "Yes, cars are on the road.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262505001", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262505002", "pred": "Check the sky.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262505003", "pred": "Yes, very busy.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262505004", "pred": "Two lines.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262505005", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393578000", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393578001", "pred": "Depends on location and time.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393578002", "pred": "Depends on bus size and capacity.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262509000", "pred": "Yes, all boats are seaworthy.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262509001", "pred": "Burj Khalifa", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262509002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262509003", "pred": "Yes, clear.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262509004", "pred": "Several", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262509005", "pred": "To the other side.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262509006", "pred": "Yes, it is clear.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262509007", "pred": "Blue", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262509008", "pred": "Yes, very crowded.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262509009", "pred": "On the river.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393583000", "pred": "Stop", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393583001", "pred": "Car", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393583002", "pred": "United States", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393583003", "pred": "Red", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393583004", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524656000", "pred": "Paper towel dispenser", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524656001", "pred": "No, they are machine washed.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524656002", "pred": "No, cabinets are solid.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_568040000", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_568040001", "pred": "Fur coat", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_568040002", "pred": "Some do, some don\u2019t.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_568040003", "pred": "Frog", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_568040004", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_568040005", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_568040006", "pred": "Unknown.", "acc": 0.0, "abstain": true}
+{"id": "vqav2_val_262514000", "pred": "No, it's not ready.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262514001", "pred": "Yes", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262514002", "pred": "Tools for tasks.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262514003", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131444000", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131444001", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131444002", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_43753000", "pred": "Cold weather.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_43753001", "pred": "A phone", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_43753002", "pred": "At a restaurant.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_43753003", "pred": "Power and authority", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_43753004", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_43753005", "pred": "Hat", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_43753006", "pred": "A phone", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_43753007", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524665000", "pred": "Playing video games.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524665001", "pred": "Yes, it looks dry.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524665002", "pred": "Cat", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262522000", "pred": "Check weather forecast.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262522001", "pred": "Yes, very tall.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262522002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131453000", "pred": "Yes, they are bison.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131453001", "pred": "No, some don't.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131453002", "pred": "Small elephant", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131453003", "pred": "Very blurred", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131453004", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262531000", "pred": "Yes, someone is watching.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262531001", "pred": "Walking on sidewalk", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262531002", "pred": "The foreground object.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262531003", "pred": "Red", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262531004", "pred": "Gray", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262531005", "pred": "No, I can't see cars.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262531006", "pred": "Tennis ball", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262531007", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524681000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524681001", "pred": "East to west.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524681002", "pred": "The edge of the cliff.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524681003", "pred": "Wind lift and tension.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524681004", "pred": "Safety and visibility", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524681005", "pred": "Cannot determine.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524681006", "pred": "Green", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_395000", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_395001", "pred": "Reading a book.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_395002", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_397000", "pred": "Green foliage", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_397001", "pred": "Italy", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_397002", "pred": "Cheeseburger", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_397003", "pred": "Pepperoni, mushrooms, onions.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_400000", "pred": "S.S. Columbia", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_400001", "pred": "Yes, there is.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_400002", "pred": "No one.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_400003", "pred": "Yes, it seems to.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524694000", "pred": "Yes, eating leaves.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524694001", "pred": "No, it's stretching.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524694002", "pred": "Yes, typically by age 18-24 months.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524694003", "pred": "In the savanna.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524702000", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524702001", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524702002", "pred": "Yes, they are.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524702003", "pred": "Playing with dolls.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_415000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_415001", "pred": "Blue shorts", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_415002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_415003", "pred": "Sponsor on the wall: [Name/Logo]", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_546203000", "pred": "Spring", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_546203001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_546203002", "pred": "No, it's not a ski resort.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131493000", "pred": "Several.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131493001", "pred": "Wood or metal.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131493002", "pred": "Transporting goods or passengers.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131493003", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131493004", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131494000", "pred": "Black", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131494001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131494002", "pred": "Not necessarily.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131497000", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131497001", "pred": "Hat", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_131497002", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_428000", "pred": "String or cord", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_428001", "pred": "Probably not.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_428002", "pred": "Red, white, blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393647000", "pred": "Route numbers.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393647001", "pred": "The movie is \"The Matrix\".", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393647002", "pred": "Driver and windshield.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393647003", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393647004", "pred": "Motorcycle", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393647005", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393647006", "pred": "Route 66", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262576000", "pred": "Dell XPS 13", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262576001", "pred": "On", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262576002", "pred": "Yes, it is connected.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262576003", "pred": "Blue", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524725000", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524725001", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524725002", "pred": "Yes, they are being used.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_73000", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_73001", "pred": "Motorcycle", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_73002", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_73003", "pred": "A 123", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393659000", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393659001", "pred": "Two sinks.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393659002", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131516000", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131516001", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131516002", "pred": "Yes, melancholic and lonely.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262594000", "pred": "Black", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262594001", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262594002", "pred": "\"Ride Free\"", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524742000", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524742001", "pred": "Sculpture", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524742002", "pred": "Depends on context and jurisdiction.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131527000", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131527001", "pred": "Yes, if they\u2019re snacks.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131527002", "pred": "Carrot", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131527003", "pred": "Zucchini", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393674000", "pred": "Possibly.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393674001", "pred": "No, not full.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393674002", "pred": "Baseball", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393674003", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393674004", "pred": "No letters visible.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393674005", "pred": "Yes, I can.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_459000", "pred": "A phone", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_459001", "pred": "Necklace", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_459002", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_459003", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262605000", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262605001", "pred": "It depends on the child\u2019s age and maturity.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262605002", "pred": "A ball", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262605003", "pred": "Depends on context.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262605004", "pred": "Chess pieces.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262605005", "pred": "Five.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262605006", "pred": "Near entrance door.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262605007", "pred": "No bike here.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262605008", "pred": "No one here.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262605009", "pred": "A woman with a bird.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262605010", "pred": "Three blades", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262605011", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262605012", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262608000", "pred": "A question asking for a brief response.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262608001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262608002", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262608003", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262608004", "pred": "Yes, it's cheesy.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262608005", "pred": "Yes, if balanced with veggies and lean protein.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262608006", "pred": "Thai", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262608007", "pred": "No, unless it's plant-based.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262608008", "pred": "No onions visible.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262608009", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262609000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262609001", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262609002", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262609003", "pred": "Black", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262609004", "pred": "No words visible.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262609005", "pred": "Yes, people are waiting.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262609006", "pred": "Red, yellow, green", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262609007", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262609008", "pred": "Right", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262609009", "pred": "Yes, many cars parked.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262609010", "pred": "Usually 5 or 6 lines.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262609011", "pred": "On Apple products.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262609012", "pred": "Yes, there are.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262609013", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393682000", "pred": "Food.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393682001", "pred": "Whipped cream", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393682002", "pred": "Pizza", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393682003", "pred": "Knife", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131539000", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131539001", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131539002", "pred": "Yes, quite windy.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131539003", "pred": "Maybe. Check the sun.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131539004", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131539005", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131539006", "pred": "Yes, they are.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131539007", "pred": "Yes, usually.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131539008", "pred": "It depends on your location.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131539009", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131539010", "pred": "Playing chess.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_472000", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_472001", "pred": "Yes, it is inhabited.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_472002", "pred": "No, they are not water.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_472003", "pred": "Varies by model.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_472004", "pred": "Yes.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_472005", "pred": "Yes, clear skies and calm winds.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262617000", "pred": "Black and white.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262617001", "pred": "8 slices", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262617002", "pred": "Books.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_474000", "pred": "A glove", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_474001", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_474002", "pred": "Yes, there is grass.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393692000", "pred": "Wood", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393692001", "pred": "Two.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393692002", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262626000", "pred": "No, kitties don\u2019t think about weather.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262626001", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262626002", "pred": "Cat", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262626003", "pred": "A cat.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262626004", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131556000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131556001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131556002", "pred": "Ground", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131557000", "pred": "No, plate is intact.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131557001", "pred": "Pepperoni and cheese", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131557002", "pred": "Floral pattern", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131557003", "pred": "Yes, unless specified gluten-free.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131557004", "pred": "Cheese, pepperoni, sausage", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131557005", "pred": "Salt", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131557006", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131557007", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_486000", "pred": "Yes, many bicycles exist.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_486001", "pred": "Yes, recently.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_486002", "pred": "In the sink.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_486003", "pred": "Quartz", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524775000", "pred": "Electric bus", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524775001", "pred": "Black", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524775002", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524775003", "pred": "School bus", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524775004", "pred": "On the vehicle.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524775005", "pred": "Red and white", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524775006", "pred": "City Bus Company", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524775007", "pred": "Typically 25-60 mph.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524775008", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_488000", "pred": "No, batteries don\u2019t bunt.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_488001", "pred": "Chess", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_488002", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_488003", "pred": "10 yards", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393710000", "pred": "No other people.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393710001", "pred": "Yes, if wind is right.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393710002", "pred": "Blue", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262642000", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262642001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262642002", "pred": "A phone", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_502000", "pred": "No, it's not.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_502001", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_502002", "pred": "Yes", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_502003", "pred": "No stones behind the bear.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393720000", "pred": "Colorful", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393720001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393720002", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393720003", "pred": "Kickflip", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_393720004", "pred": "Ground", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393720005", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393720006", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262651000", "pred": "MMSI 377104000", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262651001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262651002", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131581000", "pred": "Yes, some people are riding bikes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131581001", "pred": "No, he is not.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131581002", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131581003", "pred": "1, 2, 3, 4, 5", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262654000", "pred": "Yes, the salad.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262654001", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262654002", "pred": "Steak", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_262654003", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262654004", "pred": "Many \u2014 dozens of types.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524799000", "pred": "5 years old", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524799001", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524799002", "pred": "Blue and white", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262658000", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262658001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262658002", "pred": "Depends on location and time.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_520000", "pred": "Boat", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_520001", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_520002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_520003", "pred": "Cumulus clouds", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_520004", "pred": "Unknown.", "acc": 0.0, "abstain": true}
+{"id": "vqav2_val_520005", "pred": "Yes, good location.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_520006", "pred": "Yes, many ships.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131593000", "pred": "Cannot determine ethnicity from appearance alone.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131593001", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131593002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131597000", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131597001", "pred": "Leaves", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131597002", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131597003", "pred": "0", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131597004", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131597005", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131597006", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393743000", "pred": "Forgot to match them.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393743001", "pred": "Red", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393743002", "pred": "Soccer ball", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262672000", "pred": "No, she\u2019s posing.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262672001", "pred": "Yes, very good.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262672002", "pred": "Driving on road.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262677000", "pred": "Fire hose", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262677001", "pred": "Red", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262677002", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262677003", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262677004", "pred": "Red and yellow", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822000", "pred": "One person.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822001", "pred": "Sitting and resting", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822002", "pred": "Yes, there is room.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822003", "pred": "Snake plant", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822004", "pred": "Living room", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524822005", "pred": "Bedroom", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822006", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524822007", "pred": "Living room", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524822008", "pred": "No mirror on top of fireplace.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822009", "pred": "Nothing.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822010", "pred": "Nothing.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822011", "pred": "Gray", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822012", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822013", "pred": "London", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822014", "pred": "Yes, very tidy.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822015", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524822016", "pred": "Three", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822017", "pred": "Zero beds.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524822018", "pred": "Possibly.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536000", "pred": "Kitchen", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_536002", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536003", "pred": "Rose", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536004", "pred": "The painting.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536005", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536006", "pred": "Yes", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_536007", "pred": "Cannot determine.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536008", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536009", "pred": "No, they are cooperating.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536010", "pred": "Taking a photo.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536011", "pred": "A phone", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_536012", "pred": "No, it's hung high.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536013", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_536014", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536015", "pred": "Two players.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536016", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536017", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536018", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_536019", "pred": "Playing with dolls.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536020", "pred": "Not sure, ask them.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536021", "pred": "Necklace", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_536022", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_536023", "pred": "Yes", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_536024", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536025", "pred": "Silver", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536026", "pred": "Classic floral pattern.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536027", "pred": "Chair", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_536028", "pred": "Standing still, watching.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536029", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_536030", "pred": "No bottle found.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682000", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262682001", "pred": "Cooking, serving, or storing food.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682002", "pred": "Bedroom", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682003", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262682004", "pred": "Wood or stone", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682005", "pred": "Dirty dishes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682006", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262682007", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682008", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682009", "pred": "Kitchen towel", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682010", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682011", "pred": "Depends on the space.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682012", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682013", "pred": "One oven.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682014", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262682015", "pred": "New York City", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682016", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682017", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682018", "pred": "Chandelier", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682019", "pred": "Yes, recently.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682020", "pred": "Pot or pan", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262682021", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131611000", "pred": "Tree branch", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611001", "pred": "Elephant", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131611002", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611003", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611004", "pred": "Gray", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131611005", "pred": "Tigers", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611006", "pred": "No, they vary in size.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611007", "pred": "No, it\u2019s not.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611008", "pred": "Grass and leaves.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611009", "pred": "No, they are not sheep.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611010", "pred": "Africa or Asia", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611011", "pred": "Gray", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131611012", "pred": "In the kitchen.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611013", "pred": "Several.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611014", "pred": "Three", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611015", "pred": "Some do, some don\u2019t.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611016", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611017", "pred": "Yes, both do.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131611018", "pred": "Yes, they enjoy it.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131612000", "pred": "Riding the horse.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131612001", "pred": "Red and white", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131612002", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262686000", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262686001", "pred": "Red, blue, white", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262686002", "pred": "Hot dogs", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262686003", "pred": "Blue", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262686004", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262686005", "pred": "Red", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262686006", "pred": "Strawberries, blueberries, grapes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262686007", "pred": "It depends on context.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544000", "pred": "11", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_544002", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544003", "pred": "Baseball", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_544004", "pred": "Player 1, Player 2", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544005", "pred": "Not many seats available.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544006", "pred": "Video game.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544007", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_544008", "pred": "Waiting for bus.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544009", "pred": "Yes, many spectators.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544010", "pred": "Tetris", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544011", "pred": "Nine players.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544012", "pred": "Quarterback", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544013", "pred": "Two players.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544014", "pred": "Baseball", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_544015", "pred": "Red", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544016", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_544017", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544018", "pred": "Yes, very many.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_544019", "pred": "Baseball", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_544020", "pred": "No fence.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131617000", "pred": "Reading a book.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131617001", "pred": "Possible bruising or injury.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131617002", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_327771000", "pred": "Two pillows.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_327771001", "pred": "No, it's messy.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_327771002", "pred": "Floral pattern", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393768000", "pred": "Two.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393768001", "pred": "Yes", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_393768002", "pred": "Picture frame.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131627000", "pred": "Car", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_131627001", "pred": "Main Street", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131627002", "pred": "Skyscraper", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524844000", "pred": "No, skating is not in the night.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844001", "pred": "Black", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524844002", "pred": "Under the table.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844003", "pred": "Concrete pavement", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844004", "pred": "Very hard.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844005", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844006", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524844007", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844008", "pred": "Jeans", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524844009", "pred": "Yes, typically.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844010", "pred": "Wood", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844011", "pred": "Bicycle", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844012", "pred": "Yes, dark clouds approaching.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844013", "pred": "No skater visible.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844014", "pred": "Three steps", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844015", "pred": "Black", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844016", "pred": "In the room.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844017", "pred": "Reading a book.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844018", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524844019", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262703000", "pred": "Something unexpected occurred.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262703001", "pred": "To look at something closely.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262703002", "pred": "10 years", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262703003", "pred": "Playing chess", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262703004", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262703005", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393777000", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393777001", "pred": "Not enough information.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393777002", "pred": "Yes, very interested.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393777003", "pred": "Ceiling corner", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393777004", "pred": "Clean", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393777005", "pred": "No baby.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524850000", "pred": "Getting on the bus.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524850001", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524850002", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_564000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_564001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_564002", "pred": "Green", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_569000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_569001", "pred": "Green", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_569002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_569003", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_569004", "pred": "Yes, very beautiful.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_569005", "pred": "Orange object is a fruit.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_569006", "pred": "No", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_569007", "pred": "Reading a book.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_569008", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_445200000", "pred": "Apple", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_445200001", "pred": "Food or meal.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_445200002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_445200003", "pred": "Geometric shapes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_445200004", "pred": "Ceramic", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_445200005", "pred": "It depends on the context.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_445200006", "pred": "Three.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_153013000", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_153013001", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_153013002", "pred": "Frisbee", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393794000", "pred": "Yes, but not independently.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393794001", "pred": "Carrot", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393794002", "pred": "Pink", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_139684000", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_139684001", "pred": "Yes, often.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_139684002", "pred": "Plant or decoration", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_139684003", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393804000", "pred": "Fork", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393804001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393804002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393804003", "pred": "Grilled cheese", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131661000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131661001", "pred": "Silver or stainless steel.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131661002", "pred": "Bedroom", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131661003", "pred": "No, he is not alone.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131661004", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131661005", "pred": "Dusk or early evening.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131661006", "pred": "Yes", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_590000", "pred": "Bedroom", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_590001", "pred": "Yes, likely.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_590002", "pred": "No mirror seen.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262736000", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262736001", "pred": "Squeaky toy", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262736002", "pred": "Red, green, blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262736003", "pred": "Fetch.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262736004", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809000", "pred": "On the ground.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809001", "pred": "Baseball", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809002", "pred": "Orange", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809003", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809004", "pred": "West", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809005", "pred": "Soccer", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809006", "pred": "Two.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809007", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393809008", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393809009", "pred": "No", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_393809010", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809011", "pred": "Male and female", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809012", "pred": "A knee brace.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809013", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393809014", "pred": "Baseball", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809015", "pred": "Throwing", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_393809016", "pred": "Video games.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393809017", "pred": "Football", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262738000", "pred": "Drugs", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_262738001", "pred": "I love you", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262738002", "pred": "Playing chess", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262738003", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262738004", "pred": "Dell", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262738005", "pred": "A phone", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262738006", "pred": "No fireplace.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393811000", "pred": "Yellow", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393811001", "pred": "Yes, if cooked.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393811002", "pred": "In the water.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_393814000", "pred": "Pizza", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393814001", "pred": "Three", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393814002", "pred": "Some are, some aren\u2019t.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393814003", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524887000", "pred": "Yes", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_524887001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524887002", "pred": "Black", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_524887003", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524887004", "pred": "Harley-Davidson", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524889000", "pred": "Spring", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524889001", "pred": "A phone", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524889002", "pred": "No, not ancient days.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524889003", "pred": "A pillow", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524889004", "pred": "Yes, very lonely.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524889005", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524889006", "pred": "A rock.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262746000", "pred": "Zero", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262746001", "pred": "Yes, it\u2019s hot.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262746002", "pred": "Suit and tie", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262758000", "pred": "Black", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262758001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262758002", "pred": "Pumpkin", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393836000", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393836001", "pred": "No, not yet.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393836002", "pred": "Yes, usually.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393836003", "pred": "Five pictures.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_437010000", "pred": "Pizza and ice cream.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_437010001", "pred": "Trying to hear better.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_437010002", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_437010003", "pred": "Taking a photo.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_437010004", "pred": "Texting", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393838000", "pred": "Yes, there is onion.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393838001", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393838002", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393838003", "pred": "In the pan.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393838004", "pred": "White vegetables include cauliflower, cabbage, radish, turnip, potato, and onion.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393838005", "pred": "Food is in the pan.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_623000", "pred": "White", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_623001", "pred": "Yes, bears are real.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_623002", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_623003", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393840000", "pred": "Moving away", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393840001", "pred": "Variable amount.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393840002", "pred": "Yes, one is not eating.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393840003", "pred": "Yes, some dry patches.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_187695000", "pred": "Mustard, ketchup, relish", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_187695001", "pred": "Mold", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_187695002", "pred": "Sushi", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_187695003", "pred": "Bun", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_187695004", "pred": "Cannot determine gender from hand alone.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_626000", "pred": "No.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_626001", "pred": "Three", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_626002", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_626003", "pred": "Two.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_632000", "pred": "Picture frame.", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_632001", "pred": "Living room", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_632002", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_632003", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_632004", "pred": "Not specified.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_632005", "pred": "Resting or sleeping", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_632006", "pred": "No plants here.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_632007", "pred": "Floral pattern", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_632008", "pred": "Yes, if you're looking.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_632009", "pred": "Books and decor", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_632010", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_632011", "pred": "Chair", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_632012", "pred": "On the wall.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_632013", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_636000", "pred": "A surface or object.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_636001", "pred": "No.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_636002", "pred": "No, it\u2019s AI-generated.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_641000", "pred": "Two buses.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_641001", "pred": "Route 12", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_641002", "pred": "Cannot determine.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_641003", "pred": "None", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393858000", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393858001", "pred": "The letter \"T\" is on the tail.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393858002", "pred": "Several.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_87489000", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_87489001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_87489002", "pred": "Two.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_87489003", "pred": "To the next stop.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_87489004", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_87489005", "pred": "Hat", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_87489006", "pred": "Sedan", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393864000", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393864001", "pred": "Breakfast", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_393864002", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393864003", "pred": "Yes, half eaten.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393864004", "pred": "Food.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393864005", "pred": "White plates", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393864006", "pred": "Pasta with sauce", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131725000", "pred": "White", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_131725001", "pred": "No, it's not healthy.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131725002", "pred": "Zero.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262800000", "pred": "No.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262800001", "pred": "Depends on location and time.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262800002", "pred": "Delta Air Lines", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262800003", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262800004", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262800005", "pred": "Two.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262800006", "pred": "Not necessarily.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_262800007", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262800008", "pred": "Ascending", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_262800009", "pred": "Two", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393874000", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393874001", "pred": "White robe", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393874002", "pred": "Suit and tie", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393874003", "pred": "Brown", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393874004", "pred": "Young man", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393874005", "pred": "Right hand", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393874006", "pred": "Dell", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_393874007", "pred": "One", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393874008", "pred": "Yes.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_393874009", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_661000", "pred": "Burger patty, toppings, condiments.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_661001", "pred": "Mustard", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_661002", "pred": "Yes, someone is holding it.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_661003", "pred": "Yes", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_661004", "pred": "Paper wrapper", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_524954000", "pred": "Depends on the location.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524954001", "pred": "Yes, they are.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524954002", "pred": "Usually clean.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524957000", "pred": "A dog", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524957001", "pred": "No", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524957002", "pred": "On the shelf.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524957003", "pred": "Brown", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131743000", "pred": "Not necessarily.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131743001", "pred": "Playing chess.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_131743002", "pred": "Brown", "acc": 0.6666666666666666, "abstain": false}
+{"id": "vqav2_val_524962000", "pred": "Under the table.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524962001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524962002", "pred": "Blue", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_675000", "pred": "Sleeping", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_675001", "pred": "The one that misbehaves.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_675002", "pred": "Yes.", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524977000", "pred": "None.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524977001", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524977002", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_524979000", "pred": "Person with vision impairment.", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524979001", "pred": "Playing video game", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_524979002", "pred": "Left hand", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_692000", "pred": "Yes", "acc": 1.0, "abstain": false}
+{"id": "vqav2_val_692001", "pred": "Blue", "acc": 0.3333333333333333, "abstain": false}
+{"id": "vqav2_val_692002", "pred": "Left hand", "acc": 0.0, "abstain": false}
+{"id": "vqav2_val_693000", "pred": "16 years old", "acc": 0.0, "abstain": false}

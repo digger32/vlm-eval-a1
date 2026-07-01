@@ -1,0 +1,13 @@
+{
+  "uid": "a1__gemma3_12b__vizwiz_val__clean__seed0",
+  "paper": "a1",
+  "model": "gemma3_12b",
+  "dataset": "vizwiz_val",
+  "condition": "clean",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.0731111111111111,
+  "wall_s": 1178.5,
+  "peak_vram_gb": 24.57,
+  "items_file": "results_imgq2/a1__gemma3_12b__vizwiz_val__clean__seed0.items.jsonl"
+}

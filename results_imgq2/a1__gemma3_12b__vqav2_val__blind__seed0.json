@@ -1,0 +1,13 @@
+{
+  "uid": "a1__gemma3_12b__vqav2_val__blind__seed0",
+  "paper": "a1",
+  "model": "gemma3_12b",
+  "dataset": "vqav2_val",
+  "condition": "blind",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.026666666666666672,
+  "wall_s": 812.6,
+  "peak_vram_gb": 24.41,
+  "items_file": "results_imgq2/a1__gemma3_12b__vqav2_val__blind__seed0.items.jsonl"
+}

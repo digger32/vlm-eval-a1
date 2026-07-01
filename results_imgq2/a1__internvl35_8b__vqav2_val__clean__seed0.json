@@ -1,0 +1,13 @@
+{
+  "uid": "a1__internvl35_8b__vqav2_val__clean__seed0",
+  "paper": "a1",
+  "model": "internvl35_8b",
+  "dataset": "vqav2_val",
+  "condition": "clean",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.7975555555555555,
+  "wall_s": 567.0,
+  "peak_vram_gb": 17.97,
+  "items_file": "results_imgq2/a1__internvl35_8b__vqav2_val__clean__seed0.items.jsonl"
+}
