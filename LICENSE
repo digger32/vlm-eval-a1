@@ -1,0 +1,9 @@
+Code and per-prediction outputs in this repository are provided for the purpose of
+double-blind peer review.
+
+They are intended for release under a permissive open-source license (MIT or
+Apache-2.0). The copyright holder is withheld during anonymous review and will be
+stated, together with the chosen license text, in the public release upon acceptance.
+
+No warranty. Third-party datasets (VizWiz-VQA, VQAv2) and model weights are governed by
+their own licenses and are not redistributed here.

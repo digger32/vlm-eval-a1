@@ -1,0 +1,36 @@
+# A1 — П3 #5 (clean): image-axis vs question-axis under a NO-ABSTENTION prompt.
+# The default-prompt blind control is abstention-confounded on VQAv2 (an imageless
+# model replies "unanswerable", which scores 0 where VQAv2 has no unanswerable credit).
+# Here all four cells (both datasets x clean/blind) use prompt P1 (no abstention clause),
+# so blind = a clean language-prior floor and the decomposition identity holds under one
+# prompt. Same fixed 1500-item subset for every cell.
+paper: a1
+
+prompt: "Answer in a few words."   # P1: no abstention clause
+
+models:
+  - llava16_7b
+  - llava16_13b
+  - qwen25vl_7b
+  - qwen3vl_8b
+  - internvl3_8b
+  - internvl35_8b
+  - gemma3_12b
+  - pixtral_12b
+  - idefics3_8b
+
+datasets:
+  vqav2_val:  { loader: vqav2,  split: val, max_items: null }
+  vizwiz_val: { loader: vizwiz, split: val, max_items: null }
+
+conditions:
+  clean: { subset_items: 1500 }
+  blind: { drop_image: true, subset_items: 1500 }
+
+matrix:
+  - { dataset: vqav2_val,  conditions: [clean, blind] }
+  - { dataset: vizwiz_val, conditions: [clean, blind] }
+
+seeds: [0]
+per_unit_timeout_s: 14400
+results_dir: results_imgq2

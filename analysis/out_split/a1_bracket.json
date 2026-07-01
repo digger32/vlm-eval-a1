@@ -1,0 +1,104 @@
+{
+  "gemma3_12b": {
+    "vqav2_strict": 0.211,
+    "vqav2_lenient": 0.5774166666666667,
+    "vqav2_f1": 0.4611369991119991,
+    "vizwiz_ans_strict": 0.22358554873892297,
+    "vizwiz_ans_lenient": 0.5665757782322199,
+    "vizwiz_ans_f1": 0.6041528058272794
+  },
+  "idefics3_8b": {
+    "vqav2_strict": 0.788,
+    "vqav2_lenient": 0.7973333333333333,
+    "vqav2_f1": 0.8629029761904763,
+    "vizwiz_ans_strict": 0.4690979322881164,
+    "vizwiz_ans_lenient": 0.506021358782095,
+    "vizwiz_ans_f1": 0.6804048542159269
+  },
+  "internvl35_8b": {
+    "vqav2_strict": 0.7375,
+    "vqav2_lenient": 0.7555,
+    "vqav2_f1": 0.8092360994397759,
+    "vizwiz_ans_strict": 0.4039990911156556,
+    "vizwiz_ans_lenient": 0.5803226539422858,
+    "vizwiz_ans_f1": 0.6632152749643402
+  },
+  "internvl3_8b": {
+    "vqav2_strict": 0.7060833333333334,
+    "vqav2_lenient": 0.7200833333333333,
+    "vqav2_f1": 0.7631485680985681,
+    "vizwiz_ans_strict": 0.4809134287661895,
+    "vizwiz_ans_lenient": 0.6170188593501477,
+    "vizwiz_ans_f1": 0.7120683224724796
+  },
+  "llava16_13b": {
+    "vqav2_strict": 0.8028333333333333,
+    "vqav2_lenient": 0.813,
+    "vqav2_f1": 0.8748693362193363,
+    "vizwiz_ans_strict": 0.5363553737786867,
+    "vizwiz_ans_lenient": 0.5836173596909793,
+    "vizwiz_ans_f1": 0.7570678203902951
+  },
+  "llava16_7b": {
+    "vqav2_strict": 0.7995833333333333,
+    "vqav2_lenient": 0.8070833333333333,
+    "vqav2_f1": 0.8697775793650794,
+    "vizwiz_ans_strict": 0.5215860031810952,
+    "vizwiz_ans_lenient": 0.5485117018859351,
+    "vizwiz_ans_f1": 0.7247901647987445
+  },
+  "pixtral_12b": {
+    "vqav2_strict": 0.7986666666666667,
+    "vqav2_lenient": 0.808,
+    "vqav2_f1": 0.8736982142857144,
+    "vizwiz_ans_strict": 0.47250624857986817,
+    "vizwiz_ans_lenient": 0.5445353328788911,
+    "vizwiz_ans_f1": 0.6643214721072876
+  },
+  "qwen25vl_7b": {
+    "vqav2_strict": 0.7808333333333333,
+    "vqav2_lenient": 0.7995833333333333,
+    "vqav2_f1": 0.8506532467532468,
+    "vizwiz_ans_strict": 0.5810043172006362,
+    "vizwiz_ans_lenient": 0.7051806407634629,
+    "vizwiz_ans_f1": 0.8192363344273134
+  },
+  "qwen3vl_8b": {
+    "vqav2_strict": 0.7166666666666668,
+    "vqav2_lenient": 0.7458333333333332,
+    "vqav2_f1": 0.7837803571428572,
+    "vizwiz_ans_strict": 0.6094069529652351,
+    "vizwiz_ans_lenient": 0.712678936605317,
+    "vizwiz_ans_f1": 0.842550661753538
+  },
+  "_stability": {
+    "vqav2": {
+      "tau_strict_lenient": [
+        0.8888888888888888,
+        0.00024250440917107584
+      ],
+      "tau_strict_f1": [
+        0.9444444444444445,
+        4.96031746031746e-05
+      ],
+      "tau_lenient_f1": [
+        0.9444444444444445,
+        4.96031746031746e-05
+      ]
+    },
+    "vizwiz_ans": {
+      "tau_strict_lenient": [
+        0.5555555555555556,
+        0.04461529982363316
+      ],
+      "tau_strict_f1": [
+        0.9444444444444445,
+        4.96031746031746e-05
+      ],
+      "tau_lenient_f1": [
+        0.5,
+        0.07517636684303351
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+# Pin to your installed CUDA. Smoke-test each adapter after install (model APIs drift
+# across transformers versions — that is exactly why Phase 0 has a gate).
+torch>=2.3
+transformers>=4.49          # Qwen3-VL needs a recent transformers; verify on smoke test
+accelerate>=0.34
+sentencepiece
+pillow
+numpy
+scipy                       # bootstrap CIs, McNemar, permutation tests
+pandas
+pyyaml
+tqdm
+huggingface_hub
+datasets>=2.20
+einops                      # InternVL / some processors
+timm                        # InternVL vision tower
+matplotlib                  # CD diagrams / degradation curves
+# optional throughput backend (later, not required for Phase 0):
+# vllm>=0.6

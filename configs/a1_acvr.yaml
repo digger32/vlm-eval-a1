@@ -1,0 +1,53 @@
+# A1 — ACVR: distribution-shift audit on VizWiz vs VQAv2 + corruption sweep + blind control.
+paper: a1
+
+models:
+  # --- FROZEN SET: 7 models, all PASS smoke on transformers 5.x -------------------
+  - llava16_7b          # LLaVA-1.6 7B  (Meta/Vicuna)    scale pair
+  - llava16_13b         # LLaVA-1.6 13B (Meta/Vicuna)    scale pair
+  - qwen25vl_7b         # Qwen2.5-VL    (Alibaba)         gen pair
+  - qwen3vl_8b          # Qwen3-VL      (Alibaba)         gen pair
+  - internvl3_8b        # InternVL3-hf  (Shanghai AI Lab) gen pair
+  - internvl35_8b       # InternVL3.5-hf(Shanghai AI Lab) gen pair
+  - gemma3_12b          # Gemma-3       (Google)          cross-vendor
+  # --- optional add-ons (native, ungated; require download). Uncomment to include -
+  - pixtral_12b       # Mistral     (cross-vendor breadth)
+  - idefics3_8b       # HuggingFace (cross-vendor breadth)
+  # - llama32_11b_vision  # Meta — add when Meta approval granted (resume-safe)
+  # EXCLUDED on tf5 (broken remote code): phi35v, molmo7b_d
+
+datasets:
+  vizwiz_val:               # real images captured by blind users (the shift target)
+    loader: vizwiz
+    split: val
+    max_items: null         # use full val; set an int for a quick dry run
+  vqav2_val:                # curated web images (the reference)
+    loader: vqav2
+    split: val
+    max_items: 4000         # subset to keep compute in budget; fixed seed sampling
+
+# Conditions. "clean" = native image. corruption_* applied ONLY to vizwiz_val for the
+# attribution sweep (paired, same items -> McNemar valid). "blind" = no image, text-only
+# language-prior control (paired, same items -> McNemar valid).
+conditions:
+  clean: {}
+  blind: { drop_image: true }
+  blur_s1:   { corruption: gaussian_blur, severity: 1 , subset_items: 1500 }
+  blur_s3:   { corruption: gaussian_blur, severity: 3 , subset_items: 1500 }
+  blur_s5:   { corruption: gaussian_blur, severity: 5 , subset_items: 1500 }
+  underexp_s2: { corruption: exposure,   severity: -2 , subset_items: 1500 }
+  overexp_s2:  { corruption: exposure,   severity:  2 , subset_items: 1500 }
+  crop_s2:   { corruption: center_crop,  severity: 2 , subset_items: 1500 }
+  crop_s4:   { corruption: center_crop,  severity: 4 , subset_items: 1500 }
+
+# Which (dataset, condition) pairs are actually evaluated. Cross-dataset clean-vs-clean
+# is the headline shift comparison (UNPAIRED -> bootstrap/permutation, NOT McNemar).
+# Corruption + blind run on vizwiz_val only (PAIRED -> McNemar).
+matrix:
+  - { dataset: vqav2_val,  conditions: [clean] }
+  - { dataset: vizwiz_val, conditions: [clean, blind, blur_s1, blur_s3, blur_s5,
+                                        underexp_s2, overexp_s2, crop_s2, crop_s4] }
+
+seeds: [0]                  # inference is greedy/deterministic; seed governs subset sampling
+per_unit_timeout_s: 14400   # 4h hard cap per unit
+results_dir: results

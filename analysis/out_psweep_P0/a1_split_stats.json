@@ -1,0 +1,92 @@
+{
+  "gemma3_12b": {
+    "vqav2_clean": null,
+    "vizwiz_clean_all": 0.31155555555555553,
+    "vizwiz_clean_answerable": 0.20052671181339354,
+    "vizwiz_clean_unanswerable": 0.4717698154180238,
+    "abstain_rate_clean": 0.226,
+    "shift_gap_answerable": null,
+    "shift_gap_answerable_ci": null,
+    "corruptions_answerable": {}
+  },
+  "idefics3_8b": {
+    "vqav2_clean": null,
+    "vizwiz_clean_all": 0.42333333333333334,
+    "vizwiz_clean_answerable": 0.4382994732881866,
+    "vizwiz_clean_unanswerable": 0.4017372421281216,
+    "abstain_rate_clean": 0.18466666666666667,
+    "shift_gap_answerable": null,
+    "shift_gap_answerable_ci": null,
+    "corruptions_answerable": {}
+  },
+  "internvl35_8b": {
+    "vqav2_clean": null,
+    "vizwiz_clean_all": 0.492,
+    "vizwiz_clean_answerable": 0.3927765237020316,
+    "vizwiz_clean_unanswerable": 0.6351791530944625,
+    "abstain_rate_clean": 0.31066666666666665,
+    "shift_gap_answerable": null,
+    "shift_gap_answerable_ci": null,
+    "corruptions_answerable": {}
+  },
+  "internvl3_8b": {
+    "vqav2_clean": null,
+    "vizwiz_clean_all": 0.5486666666666666,
+    "vizwiz_clean_answerable": 0.4228743416102333,
+    "vizwiz_clean_unanswerable": 0.7301845819761129,
+    "abstain_rate_clean": 0.37533333333333335,
+    "shift_gap_answerable": null,
+    "shift_gap_answerable_ci": null,
+    "corruptions_answerable": {}
+  },
+  "llava16_13b": {
+    "vqav2_clean": null,
+    "vizwiz_clean_all": 0.6322222222222222,
+    "vizwiz_clean_answerable": 0.5519187358916479,
+    "vizwiz_clean_unanswerable": 0.7480998914223671,
+    "abstain_rate_clean": 0.4,
+    "shift_gap_answerable": null,
+    "shift_gap_answerable_ci": null,
+    "corruptions_answerable": {}
+  },
+  "llava16_7b": {
+    "vqav2_clean": null,
+    "vizwiz_clean_all": 0.6071111111111112,
+    "vizwiz_clean_answerable": 0.5391271632806621,
+    "vizwiz_clean_unanswerable": 0.7052117263843648,
+    "abstain_rate_clean": 0.372,
+    "shift_gap_answerable": null,
+    "shift_gap_answerable_ci": null,
+    "corruptions_answerable": {}
+  },
+  "pixtral_12b": {
+    "vqav2_clean": null,
+    "vizwiz_clean_all": 0.5291111111111111,
+    "vizwiz_clean_answerable": 0.48081264108352145,
+    "vizwiz_clean_unanswerable": 0.5988056460369163,
+    "abstain_rate_clean": 0.3426666666666667,
+    "shift_gap_answerable": null,
+    "shift_gap_answerable_ci": null,
+    "corruptions_answerable": {}
+  },
+  "qwen25vl_7b": {
+    "vqav2_clean": null,
+    "vizwiz_clean_all": 0.6646666666666666,
+    "vizwiz_clean_answerable": 0.5466516177577125,
+    "vizwiz_clean_unanswerable": 0.8349619978284473,
+    "abstain_rate_clean": 0.486,
+    "shift_gap_answerable": null,
+    "shift_gap_answerable_ci": null,
+    "corruptions_answerable": {}
+  },
+  "qwen3vl_8b": {
+    "vqav2_clean": null,
+    "vizwiz_clean_all": 0.7011111111111111,
+    "vizwiz_clean_answerable": 0.5763732129420617,
+    "vizwiz_clean_unanswerable": 0.8811074918566775,
+    "abstain_rate_clean": 0.5106666666666667,
+    "shift_gap_answerable": null,
+    "shift_gap_answerable_ci": null,
+    "corruptions_answerable": {}
+  }
+}

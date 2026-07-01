@@ -1,0 +1,104 @@
+# Model registry. `adapter` selects the code path in harness/adapters.py.
+# `hf_id` is the HuggingFace repo. Adjust revisions/ids to what is current on your HF.
+# dtype fp16 throughout; all fit one 80GB GPU loaded one-at-a-time.
+
+models:
+  # --- 2024 generation -----------------------------------------------------
+  llava16_7b:
+    hf_id: llava-hf/llava-v1.6-vicuna-7b-hf
+    adapter: llava_next
+    dtype: float16
+    generation: "2024"
+    lineage: llava
+    notes: "widely-cited reference; size-pair with 13b"
+
+  llava16_13b:
+    hf_id: llava-hf/llava-v1.6-vicuna-13b-hf
+    adapter: llava_next
+    dtype: float16
+    generation: "2024"
+    lineage: llava
+    notes: "intra-family scale pair"
+
+  qwen25vl_7b:
+    hf_id: Qwen/Qwen2.5-VL-7B-Instruct
+    adapter: qwen25_vl
+    dtype: float16
+    generation: "2025-early"
+    lineage: qwen
+    notes: "generational pair with qwen3vl_8b (Qwen2.5-VL Jan 2025 -> Qwen3-VL Oct 2025)"
+
+  internvl3_8b:
+    hf_id: OpenGVLab/InternVL3-8B-hf
+    adapter: internvl
+    dtype: bfloat16
+    generation: "2025"
+    lineage: internvl
+    notes: "native -hf checkpoint (no remote code); older of the InternVL pair"
+
+  # --- 2025/26 generation --------------------------------------------------
+  qwen3vl_8b:
+    hf_id: Qwen/Qwen3-VL-8B-Instruct
+    adapter: qwen3_vl
+    dtype: float16
+    generation: "2025"
+    lineage: qwen
+    notes: "current Qwen dense 8B (Oct 2025). Use Instruct, NOT Thinking."
+
+  internvl35_8b:
+    hf_id: OpenGVLab/InternVL3_5-8B-HF
+    adapter: internvl
+    dtype: bfloat16
+    generation: "2025-late"
+    lineage: internvl
+    notes: "native -hf checkpoint; newer of the pair (InternVL3 -> InternVL3.5)"
+
+  # --- cross-vendor 7th model: pick ONE (or run 6 and add later via resume) -----
+  # Llama-3.2 is gated by Meta with MANUAL review -> may stay PENDING for a while.
+  # Re-add this to a run config only once Meta approves (request status ACCEPTED).
+  llama32_11b_vision:
+    hf_id: meta-llama/Llama-3.2-11B-Vision-Instruct
+    adapter: mllama
+    dtype: bfloat16
+    generation: "2024"
+    lineage: meta
+    gated: true
+    notes: "PENDING Meta approval as of Jun 19; add back via resume when ACCEPTED"
+
+  # RECOMMENDED replacement: Google, gated but approval is near-instant (auto).
+  gemma3_12b:
+    hf_id: google/gemma-3-12b-it
+    adapter: gemma3
+    dtype: bfloat16
+    generation: "2025"
+    lineage: google
+    gated: true
+    notes: "true cross-vendor; accept Gemma terms on HF (instant). 12B fits 80GB."
+
+  # --- EXCLUDED on transformers 5.x (bundled remote code is incompatible) ---------
+  # phi35v   : modeling_phi3_v.py uses past_key_values.seen_tokens (removed in tf5)
+  # molmo7b_d: remote code demands tensorflow via check_imports
+  # Kept here only as a record; do NOT add to a run config under transformers 5.x.
+
+  # --- native, ungated cross-vendor alternatives (opt-in; need download) ----------
+  pixtral_12b:
+    hf_id: mistral-community/pixtral-12b
+    adapter: pixtral
+    dtype: bfloat16
+    generation: "2024-late"
+    lineage: mistral
+    notes: "native (LlavaForConditionalGeneration); cross-vendor Mistral; ~25GB"
+
+  idefics3_8b:
+    hf_id: HuggingFaceM4/Idefics3-8B-Llama3
+    adapter: idefics3
+    dtype: bfloat16
+    generation: "2024"
+    lineage: huggingface
+    notes: "native (AutoModelForImageTextToText); cross-vendor HF (Llama3 backbone)"
+
+# Generation knobs shared across models (override per-driver if needed)
+generation_defaults:
+  max_new_tokens: 64
+  do_sample: false        # deterministic; greedy. We are auditing, not sampling.
+  temperature: 0.0

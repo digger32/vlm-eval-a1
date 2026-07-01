@@ -1,0 +1,15 @@
+# Review-proofing gate config for A1 (ACVR). Asserts the two hard items:
+#   A1 clean final run  -> final pass had --no-resume, no skipped/carried units
+#   B1 external validity -> the comparative claim runs on independent public datasets
+# Optional checks off: no UQ/calibration claim, no HPO/optimism gap. Statistics
+# (Wilcoxon/McNemar/bootstrap/Holm/Friedman) are reported in analysis/out_split.
+
+require_calibration: false
+require_optimism_gap: false
+require_stats: false
+
+comparative_claims:
+  # "VLMs lose a significant margin on real assistive imagery vs curated" — tested
+  # across two INDEPENDENT public datasets.
+  - id: "vlm_real_vs_curated_shift"
+    independent_datasets: ["vizwiz_val", "vqav2_val"]

@@ -1,0 +1,32 @@
+# A1 — П2 prompt-sensitivity sweep — P0
+# Trimmed copy of a1_acvr.yaml: vizwiz_val/clean on a fixed 1500-item subset only.
+# Needs the worker prompt override (prompt = cfg.get("prompt") or DEFAULT_VQA_PROMPT).
+# P0 = runner default (your original abstention prompt); no prompt: key.
+paper: a1
+
+models:
+  - llava16_7b
+  - llava16_13b
+  - qwen25vl_7b
+  - qwen3vl_8b
+  - internvl3_8b
+  - internvl35_8b
+  - gemma3_12b
+  - pixtral_12b
+  - idefics3_8b
+
+datasets:
+  vizwiz_val:
+    loader: vizwiz
+    split: val
+    max_items: null
+
+conditions:
+  clean: { subset_items: 1500 }   # seed-governed -> same 1500 items for every variant
+
+matrix:
+  - { dataset: vizwiz_val, conditions: [clean] }
+
+seeds: [0]
+per_unit_timeout_s: 14400
+results_dir: results_psweep_P0
