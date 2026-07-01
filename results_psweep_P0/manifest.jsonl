@@ -1,0 +1,9 @@
+{"unit": "a1__llava16_7b__vizwiz_val__clean__seed0", "dataset": "vizwiz_val", "model": "llava16_7b", "condition": "clean", "seed": 0, "started": "2026-06-29T08:18:46+00:00", "status": "ok", "wall_s": 566.7}
+{"unit": "a1__llava16_13b__vizwiz_val__clean__seed0", "dataset": "vizwiz_val", "model": "llava16_13b", "condition": "clean", "seed": 0, "started": "2026-06-29T08:18:46+00:00", "status": "ok", "wall_s": 894.5}
+{"unit": "a1__qwen25vl_7b__vizwiz_val__clean__seed0", "dataset": "vizwiz_val", "model": "qwen25vl_7b", "condition": "clean", "seed": 0, "started": "2026-06-29T08:18:46+00:00", "status": "ok", "wall_s": 1025.9}
+{"unit": "a1__qwen3vl_8b__vizwiz_val__clean__seed0", "dataset": "vizwiz_val", "model": "qwen3vl_8b", "condition": "clean", "seed": 0, "started": "2026-06-29T08:18:46+00:00", "status": "ok", "wall_s": 798.6}
+{"unit": "a1__internvl3_8b__vizwiz_val__clean__seed0", "dataset": "vizwiz_val", "model": "internvl3_8b", "condition": "clean", "seed": 0, "started": "2026-06-29T08:18:46+00:00", "status": "ok", "wall_s": 895.1}
+{"unit": "a1__internvl35_8b__vizwiz_val__clean__seed0", "dataset": "vizwiz_val", "model": "internvl35_8b", "condition": "clean", "seed": 0, "started": "2026-06-29T08:18:46+00:00", "status": "ok", "wall_s": 1074.5}
+{"unit": "a1__gemma3_12b__vizwiz_val__clean__seed0", "dataset": "vizwiz_val", "model": "gemma3_12b", "condition": "clean", "seed": 0, "started": "2026-06-29T08:18:46+00:00", "status": "ok", "wall_s": 868.0}
+{"unit": "a1__pixtral_12b__vizwiz_val__clean__seed0", "dataset": "vizwiz_val", "model": "pixtral_12b", "condition": "clean", "seed": 0, "started": "2026-06-29T08:18:46+00:00", "status": "ok", "wall_s": 1200.0}
+{"unit": "a1__idefics3_8b__vizwiz_val__clean__seed0", "dataset": "vizwiz_val", "model": "idefics3_8b", "condition": "clean", "seed": 0, "started": "2026-06-29T08:18:46+00:00", "status": "ok", "wall_s": 683.7}

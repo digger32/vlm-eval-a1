@@ -1,0 +1,10 @@
+uid,status,wall_s,rc
+a1__llava16_7b__vizwiz_val__clean__seed0,ok,566.7,0
+a1__llava16_13b__vizwiz_val__clean__seed0,ok,894.5,0
+a1__qwen25vl_7b__vizwiz_val__clean__seed0,ok,1025.9,0
+a1__qwen3vl_8b__vizwiz_val__clean__seed0,ok,798.6,0
+a1__internvl3_8b__vizwiz_val__clean__seed0,ok,895.1,0
+a1__internvl35_8b__vizwiz_val__clean__seed0,ok,1074.5,0
+a1__gemma3_12b__vizwiz_val__clean__seed0,ok,868.0,0
+a1__pixtral_12b__vizwiz_val__clean__seed0,ok,1200.0,0
+a1__idefics3_8b__vizwiz_val__clean__seed0,ok,683.7,0
