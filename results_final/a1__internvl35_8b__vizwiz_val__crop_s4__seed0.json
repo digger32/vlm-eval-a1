@@ -1,0 +1,13 @@
+{
+  "uid": "a1__internvl35_8b__vizwiz_val__crop_s4__seed0",
+  "paper": "a1",
+  "model": "internvl35_8b",
+  "dataset": "vizwiz_val",
+  "condition": "crop_s4",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.5055555555555558,
+  "wall_s": 1048.3,
+  "peak_vram_gb": 17.98,
+  "items_file": "results_final/a1__internvl35_8b__vizwiz_val__crop_s4__seed0.items.jsonl"
+}

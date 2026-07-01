@@ -1,0 +1,13 @@
+{
+  "uid": "a1__idefics3_8b__vizwiz_val__overexp_s2__seed0",
+  "paper": "a1",
+  "model": "idefics3_8b",
+  "dataset": "vizwiz_val",
+  "condition": "overexp_s2",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.42333333333333334,
+  "wall_s": 684.8,
+  "peak_vram_gb": 17.74,
+  "items_file": "results_final/a1__idefics3_8b__vizwiz_val__overexp_s2__seed0.items.jsonl"
+}

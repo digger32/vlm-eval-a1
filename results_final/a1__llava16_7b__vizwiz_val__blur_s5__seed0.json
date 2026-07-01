@@ -1,0 +1,13 @@
+{
+  "uid": "a1__llava16_7b__vizwiz_val__blur_s5__seed0",
+  "paper": "a1",
+  "model": "llava16_7b",
+  "dataset": "vizwiz_val",
+  "condition": "blur_s5",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.6300000000000006,
+  "wall_s": 638.6,
+  "peak_vram_gb": 15.69,
+  "items_file": "results_final/a1__llava16_7b__vizwiz_val__blur_s5__seed0.items.jsonl"
+}

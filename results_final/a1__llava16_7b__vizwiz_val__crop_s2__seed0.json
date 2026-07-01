@@ -1,0 +1,13 @@
+{
+  "uid": "a1__llava16_7b__vizwiz_val__crop_s2__seed0",
+  "paper": "a1",
+  "model": "llava16_7b",
+  "dataset": "vizwiz_val",
+  "condition": "crop_s2",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.602888888888889,
+  "wall_s": 578.3,
+  "peak_vram_gb": 15.69,
+  "items_file": "results_final/a1__llava16_7b__vizwiz_val__crop_s2__seed0.items.jsonl"
+}

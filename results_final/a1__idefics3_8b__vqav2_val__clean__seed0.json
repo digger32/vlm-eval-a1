@@ -1,0 +1,13 @@
+{
+  "uid": "a1__idefics3_8b__vqav2_val__clean__seed0",
+  "paper": "a1",
+  "model": "idefics3_8b",
+  "dataset": "vqav2_val",
+  "condition": "clean",
+  "seed": 0,
+  "n_total": 4000,
+  "score": 0.7879999999999999,
+  "wall_s": 1612.3,
+  "peak_vram_gb": 17.74,
+  "items_file": "results_final/a1__idefics3_8b__vqav2_val__clean__seed0.items.jsonl"
+}
