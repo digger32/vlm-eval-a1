@@ -1,0 +1,13 @@
+{
+  "uid": "a1__llava16_13b__vizwiz_val__underexp_s2__seed0",
+  "paper": "a1",
+  "model": "llava16_13b",
+  "dataset": "vizwiz_val",
+  "condition": "underexp_s2",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.6413333333333342,
+  "wall_s": 887.1,
+  "peak_vram_gb": 29.06,
+  "items_file": "results_final/a1__llava16_13b__vizwiz_val__underexp_s2__seed0.items.jsonl"
+}

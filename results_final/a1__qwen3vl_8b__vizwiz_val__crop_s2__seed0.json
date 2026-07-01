@@ -1,0 +1,13 @@
+{
+  "uid": "a1__qwen3vl_8b__vizwiz_val__crop_s2__seed0",
+  "paper": "a1",
+  "model": "qwen3vl_8b",
+  "dataset": "vizwiz_val",
+  "condition": "crop_s2",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.6955555555555563,
+  "wall_s": 812.2,
+  "peak_vram_gb": 19.16,
+  "items_file": "results_final/a1__qwen3vl_8b__vizwiz_val__crop_s2__seed0.items.jsonl"
+}

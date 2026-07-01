@@ -1,0 +1,13 @@
+{
+  "uid": "a1__llava16_13b__vqav2_val__clean__seed0",
+  "paper": "a1",
+  "model": "llava16_13b",
+  "dataset": "vqav2_val",
+  "condition": "clean",
+  "seed": 0,
+  "n_total": 4000,
+  "score": 0.8028333333333335,
+  "wall_s": 1964.3,
+  "peak_vram_gb": 29.56,
+  "items_file": "results_final/a1__llava16_13b__vqav2_val__clean__seed0.items.jsonl"
+}

@@ -1,0 +1,13 @@
+{
+  "uid": "a1__pixtral_12b__vizwiz_val__overexp_s2__seed0",
+  "paper": "a1",
+  "model": "pixtral_12b",
+  "dataset": "vizwiz_val",
+  "condition": "overexp_s2",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.5142222222222222,
+  "wall_s": 1171.4,
+  "peak_vram_gb": 26.35,
+  "items_file": "results_final/a1__pixtral_12b__vizwiz_val__overexp_s2__seed0.items.jsonl"
+}

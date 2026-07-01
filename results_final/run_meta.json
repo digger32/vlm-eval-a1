@@ -1,0 +1,30 @@
+{
+  "paper": "a1",
+  "run_started": "2026-06-27T10:10:04+00:00",
+  "no_resume": true,
+  "results_dir": "results_final",
+  "n_units": 90,
+  "datasets": [
+    "vizwiz_val",
+    "vqav2_val"
+  ],
+  "models": [
+    "llava16_7b",
+    "llava16_13b",
+    "qwen25vl_7b",
+    "qwen3vl_8b",
+    "internvl3_8b",
+    "internvl35_8b",
+    "gemma3_12b",
+    "pixtral_12b",
+    "idefics3_8b"
+  ],
+  "env": {
+    "torch": "2.12.1+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA A800 80GB PCIe",
+    "transformers": "5.12.1",
+    "accelerate": "1.14.0"
+  },
+  "run_config": "a1_acvr.yaml"
+}

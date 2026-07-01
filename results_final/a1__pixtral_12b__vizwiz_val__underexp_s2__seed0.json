@@ -1,0 +1,13 @@
+{
+  "uid": "a1__pixtral_12b__vizwiz_val__underexp_s2__seed0",
+  "paper": "a1",
+  "model": "pixtral_12b",
+  "dataset": "vizwiz_val",
+  "condition": "underexp_s2",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.5273333333333335,
+  "wall_s": 1185.8,
+  "peak_vram_gb": 26.35,
+  "items_file": "results_final/a1__pixtral_12b__vizwiz_val__underexp_s2__seed0.items.jsonl"
+}

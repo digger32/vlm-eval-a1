@@ -1,0 +1,13 @@
+{
+  "uid": "a1__pixtral_12b__vizwiz_val__blur_s3__seed0",
+  "paper": "a1",
+  "model": "pixtral_12b",
+  "dataset": "vizwiz_val",
+  "condition": "blur_s3",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.5573333333333336,
+  "wall_s": 1219.6,
+  "peak_vram_gb": 26.35,
+  "items_file": "results_final/a1__pixtral_12b__vizwiz_val__blur_s3__seed0.items.jsonl"
+}

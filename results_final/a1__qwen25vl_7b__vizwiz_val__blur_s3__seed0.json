@@ -1,0 +1,13 @@
+{
+  "uid": "a1__qwen25vl_7b__vizwiz_val__blur_s3__seed0",
+  "paper": "a1",
+  "model": "qwen25vl_7b",
+  "dataset": "vizwiz_val",
+  "condition": "blur_s3",
+  "seed": 0,
+  "n_total": 1500,
+  "score": 0.7104444444444451,
+  "wall_s": 1087.4,
+  "peak_vram_gb": 18.07,
+  "items_file": "results_final/a1__qwen25vl_7b__vizwiz_val__blur_s3__seed0.items.jsonl"
+}

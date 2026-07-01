@@ -1,0 +1,13 @@
+{
+  "uid": "a1__pixtral_12b__vqav2_val__clean__seed0",
+  "paper": "a1",
+  "model": "pixtral_12b",
+  "dataset": "vqav2_val",
+  "condition": "clean",
+  "seed": 0,
+  "n_total": 4000,
+  "score": 0.7986666666666662,
+  "wall_s": 1177.5,
+  "peak_vram_gb": 25.89,
+  "items_file": "results_final/a1__pixtral_12b__vqav2_val__clean__seed0.items.jsonl"
+}
