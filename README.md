@@ -1,7 +1,6 @@
-# vlm-eval
+# Evaluation-protocol audit of open VLMs on VizWiz
 
-Anonymised code and per-prediction outputs for the ACVR paper *"Do VLMs See What Blind
-Users Show Them? A Distribution-Shift and Evaluation-Protocol Audit on VizWiz."*
+Anonymised code and per-prediction outputs for the ACVR paper *"It wil be placed when paper accepted."*
 Provided for double-blind review; it reproduces every number in the paper from the raw
 predictions.
 
