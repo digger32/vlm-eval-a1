@@ -1,0 +1,25 @@
+# A1 camera-ready, Stage B — additional prompt variants (reviewer hEtH).
+# P4: strict output formatting (tests whether verbosity, and hence the strict-matcher penalty, is prompt-controllable)
+# Same fixed 1500-item prefix and matcher as the P0-P3 sweep, so the four existing
+# prompts and these two are directly comparable.
+paper: a1
+prompt: "Answer with a single word or a short phrase only, not a sentence. If the image does not allow answering, reply 'unanswerable'."
+models:
+  - llava16_7b
+  - llava16_13b
+  - qwen25vl_7b
+  - qwen3vl_8b
+  - internvl3_8b
+  - internvl35_8b
+  - gemma3_12b
+  - pixtral_12b
+  - idefics3_8b
+datasets:
+  vizwiz_val: { loader: vizwiz, split: val, max_items: null }
+conditions:
+  clean: { subset_items: 1500 }
+matrix:
+  - { dataset: vizwiz_val, conditions: [clean] }
+seeds: [0]
+per_unit_timeout_s: 14400
+results_dir: results_cr_P4

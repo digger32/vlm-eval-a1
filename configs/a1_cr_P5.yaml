@@ -1,0 +1,25 @@
+# A1 camera-ready, Stage B — additional prompt variants (reviewer hEtH).
+# P5: calibrated abstention (tests whether abstention can be tuned without removing the option)
+# Same fixed 1500-item prefix and matcher as the P0-P3 sweep, so the four existing
+# prompts and these two are directly comparable.
+paper: a1
+prompt: "Answer in a few words. Reply 'unanswerable' only if the image genuinely does not show enough to answer; otherwise give your best answer."
+models:
+  - llava16_7b
+  - llava16_13b
+  - qwen25vl_7b
+  - qwen3vl_8b
+  - internvl3_8b
+  - internvl35_8b
+  - gemma3_12b
+  - pixtral_12b
+  - idefics3_8b
+datasets:
+  vizwiz_val: { loader: vizwiz, split: val, max_items: null }
+conditions:
+  clean: { subset_items: 1500 }
+matrix:
+  - { dataset: vizwiz_val, conditions: [clean] }
+seeds: [0]
+per_unit_timeout_s: 14400
+results_dir: results_cr_P5

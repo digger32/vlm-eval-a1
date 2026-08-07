@@ -1,0 +1,39 @@
+# A1 camera-ready, Stage C — broader capture-failure suite (reviewer hEtH).
+# Adds the failure modes blind photographers actually hit that the original sweep did
+# not cover: camera pan (motion blur), sensor noise, specular glare, a finger over the
+# lens (occlusion), low resolution, and severe misframing. Two severities each
+# (moderate, severe) so a dose-response is visible. Same fixed 1500-item prefix as the
+# original sweep -> paired with clean, and directly comparable to blur/exposure/crop.
+paper: a1
+models:
+  - llava16_7b
+  - llava16_13b
+  - qwen25vl_7b
+  - qwen3vl_8b
+  - internvl3_8b
+  - internvl35_8b
+  - gemma3_12b
+  - pixtral_12b
+  - idefics3_8b
+datasets:
+  vizwiz_val: { loader: vizwiz, split: val, max_items: null }
+conditions:
+  motion_s2:  { corruption: motion_blur,     severity: 2, subset_items: 1500 }
+  motion_s4:  { corruption: motion_blur,     severity: 4, subset_items: 1500 }
+  noise_s2:   { corruption: sensor_noise,    severity: 2, subset_items: 1500 }
+  noise_s4:   { corruption: sensor_noise,    severity: 4, subset_items: 1500 }
+  glare_s2:   { corruption: glare,           severity: 2, subset_items: 1500 }
+  glare_s4:   { corruption: glare,           severity: 4, subset_items: 1500 }
+  occl_s2:    { corruption: occlusion,       severity: 2, subset_items: 1500 }
+  occl_s4:    { corruption: occlusion,       severity: 4, subset_items: 1500 }
+  lowres_s2:  { corruption: low_resolution,  severity: 2, subset_items: 1500 }
+  lowres_s4:  { corruption: low_resolution,  severity: 4, subset_items: 1500 }
+  offctr_s2:  { corruption: off_centre_crop, severity: 2, subset_items: 1500 }
+  offctr_s4:  { corruption: off_centre_crop, severity: 4, subset_items: 1500 }
+matrix:
+  - { dataset: vizwiz_val, conditions: [motion_s2, motion_s4, noise_s2, noise_s4,
+                                        glare_s2, glare_s4, occl_s2, occl_s4,
+                                        lowres_s2, lowres_s4, offctr_s2, offctr_s4] }
+seeds: [0]
+per_unit_timeout_s: 14400
+results_dir: results_cr_corrupt2

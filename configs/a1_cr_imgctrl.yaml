@@ -1,0 +1,26 @@
+# A1 camera-ready, Stage A — image-provenance controls (reviewer hEtH).
+# Complements the blind control: does the model read THIS image, or answer from the
+# question plus generic scene statistics? Same fixed 1500-item prefix as the corruption
+# sweep, so every cell is paired with the existing clean run (McNemar valid).
+paper: a1
+models:
+  - llava16_7b
+  - llava16_13b
+  - qwen25vl_7b
+  - qwen3vl_8b
+  - internvl3_8b
+  - internvl35_8b
+  - gemma3_12b
+  - pixtral_12b
+  - idefics3_8b
+datasets:
+  vizwiz_val: { loader: vizwiz, split: val, max_items: null }
+conditions:
+  gray:       { corruption: gray,          severity: 1, subset_items: 1500 }
+  shuffled:   { corruption: patch_shuffle, severity: 3, subset_items: 1500 }
+  mismatched: { mismatch_shift: 1,                      subset_items: 1500 }
+matrix:
+  - { dataset: vizwiz_val, conditions: [gray, shuffled, mismatched] }
+seeds: [0]
+per_unit_timeout_s: 14400
+results_dir: results_cr_imgctrl
