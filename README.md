@@ -1,66 +1,120 @@
 # Evaluation-protocol audit of open VLMs on VizWiz
 
-Anonymised code and per-prediction outputs for the ACVR paper *"It wil be placed when paper accepted."*
-Provided for double-blind review; it reproduces every number in the paper from the raw
-predictions.
+Code and per-prediction outputs for
 
-Nine open vision-language models (all <=13B) are evaluated on VizWiz-VQA against VQAv2
+> **Do VLMs See What Blind Users Show Them? A Distribution-Shift and
+> Evaluation-Protocol Audit on VizWiz**
+> Sergei O. Kurashkin, Vadim Tynchenko, Aleksei Borodulin
+> ACVR 2026 workshop, ECCV 2026.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21830933.svg)](https://doi.org/10.5281/zenodo.21830933)
+
+Nine open vision-language models (all ≤13B) are evaluated on VizWiz-VQA against VQAv2
 under a job-based runner: each **unit** = `(model, dataset, condition, seed)` runs as an
-isolated subprocess with per-unit timeout, atomic write, and item-level resume.
+isolated subprocess with per-unit timeout, atomic write, and item-level resume. The
+release reproduces every number in the paper from the raw predictions.
+
+## What the paper measures
+
+With models and data held fixed, the reported VizWiz number is governed by three
+protocol choices that papers usually leave implicit: the **answerability split**, the
+**abstention instruction** in the prompt, and the **answer matcher**. The repository
+contains the runs behind each.
 
 ## Layout
+
 ```
-configs/    a1_acvr.yaml (main run) · a1_psweep_P0..P3.yaml (prompt sweep)
-            a1_imgq2.yaml (image-vs-question control) · models.yaml
-harness/    model adapters, VLM facade, MCQ/VQA parsing, corruption operators
-data/       download_a1.py · datasets.py (unified item loaders)
-runner/     units.py · worker.py · orchestrate.py (subprocess-per-unit)
-analysis/   run_a1_split · rescore (strict/lenient/token-F1) · compare_prompts
-            · decompose_axes · answerability · figures · stats · make_cd
-gate/       review_gate.py + gate_config_a1.yaml (fails on dirty numbers)
-results_*/  per-prediction outputs ({id, pred, acc, abstain}; no ground truth)
+configs/     a1_acvr.yaml            main run (9 models x 2 datasets x 10 conditions)
+             a1_psweep_P0..P3.yaml   prompt sweep (default / none / permissive / strict)
+             a1_imgq2.yaml           image-vs-question decomposition (no-abstention prompt)
+             a1_cr_imgctrl.yaml      image-provenance controls (grey / shuffled / mismatched)
+             a1_cr_P4.yaml           strict output-format prompt
+             a1_cr_P5.yaml           calibrated-abstention prompt
+             a1_cr_corrupt2.yaml     six further corruption families x 2 severities
+             models.yaml             the nine checkpoints
+harness/     model adapters, VLM facade, VQA parsing, corruption operators
+data/        download_a1.py, datasets.py (unified item loaders)
+runner/      units.py, worker.py, orchestrate.py (subprocess per unit), merge.py
+analysis/    run_a1_split, rescore (strict/lenient/token-F1), compare_prompts,
+             decompose_axes, cr_offline, answerability, figures, stats, make_cd
+gate/        review_gate.py + gate_config_a1.yaml (fails if dirty numbers reach a figure)
+scripts/     run_cr.sh (unattended camera-ready run driver)
+results_*/   per-prediction outputs: {id, pred, acc, abstain}; no ground truth
 ```
 
-## Reproduce the paper (offline analyses need no GPU)
+## Reproducing
+
+Offline analyses need no GPU and run against the shipped `results_*/`.
+
 ```bash
 pip install -r requirements.txt
-python -m data.download_a1                     # VizWiz-val + VQAv2-val (public)
+python -m data.download_a1                    # VizWiz-val and VQAv2-val (public)
+```
 
-# main run (GPU; tmux) — or use the shipped results_final/
+Main run and the frozen numbers:
+
+```bash
 python -m runner.orchestrate --run-config configs/a1_acvr.yaml \
     --models-config configs/models.yaml --no-resume --results-dir results_final
 
-# frozen numbers (offline, from results_final/):
 python -m analysis.run_a1_split --results results_final --config configs/a1_acvr.yaml \
-    --datasets-root datasets --outdir analysis/out_split     # shift, abstention, corruption
+    --datasets-root datasets --outdir analysis/out_split      # shift, abstention, corruption
 python -m analysis.rescore      --results results_final --datasets-root datasets \
-    --out analysis/out_split/a1_bracket.json                 # strict/lenient/token-F1 + tau
+    --out analysis/out_split/a1_bracket.json                  # strict / lenient / token-F1
+```
 
-# prompt sensitivity (Sec. 4.2): 4 prompts on a fixed 1500-subset
+Prompt sensitivity, and the image-versus-question decomposition:
+
+```bash
 for P in P0 P1 P2 P3; do
   python -m runner.orchestrate --run-config configs/a1_psweep_$P.yaml \
       --models-config configs/models.yaml --no-resume
-  python -m analysis.run_a1_split --results results_psweep_$P \
-      --config configs/a1_psweep_$P.yaml --datasets-root datasets \
-      --outdir analysis/out_psweep_$P
 done
-python -m analysis.compare_prompts P0=analysis/out_psweep_P0/a1_split_stats.json \
-  P1=analysis/out_psweep_P1/a1_split_stats.json \
-  P2=analysis/out_psweep_P2/a1_split_stats.json \
-  P3=analysis/out_psweep_P3/a1_split_stats.json
+python -m analysis.compare_prompts P0=... P1=... P2=... P3=...     # see analysis/out_psweep_*
 
-# image-vs-question decomposition (Sec. 4.4): four cells under a no-abstention prompt
 python -m runner.orchestrate --run-config configs/a1_imgq2.yaml \
-    --models-config configs/models.yaml --no-resume        # -> results_imgq2/
+    --models-config configs/models.yaml --no-resume
 python -m analysis.decompose_axes --results results_imgq2 --datasets-root datasets
 ```
-`gate/review_gate.py results_final --config gate/gate_config_a1.yaml` must pass before
-numbers are frozen (asserts a no-resume final pass and a public-dataset robustness run).
+
+Camera-ready additions (image-provenance controls, two further prompts, six further
+corruption families) run unattended as three sequential stages:
+
+```bash
+bash scripts/run_cr.sh          # ~27 GPU-h on one A800; stages A, B, C in order
+python -m analysis.cr_offline --results-final results_final \
+    --psweep results_psweep_P0 results_psweep_P1 results_psweep_P2 results_psweep_P3 \
+    --datasets-root datasets
+```
+
+Before numbers are frozen:
+
+```bash
+python gate/review_gate.py results_final --config gate/gate_config_a1.yaml
+```
 
 See `REPRODUCIBILITY.md` for the environment pin and the clean-final-pass procedure.
 
 ## Notes
-- Per-prediction files contain no reference answers; scoring reads public VizWiz/VQAv2
-  ground truth locally (not redistributed here). Download via `data/download_a1.py`.
-- Decoding is greedy (`temperature=0`), max 64 new tokens; the exact prompt and the
-  matcher normalisation are documented in the paper's reproducibility appendix.
+
+- Per-prediction files carry no reference answers; scoring reads the public VizWiz and
+  VQAv2 ground truth locally, which is not redistributed here.
+- Decoding is greedy (`temperature=0`), 64 new tokens maximum. The exact prompt and the
+  matcher normalisation are given in the paper's supplementary material.
+- `a1_imgq2.yaml` deliberately uses a no-abstention prompt: under the default prompt an
+  imageless model replies "unanswerable", which scores zero on VQAv2 and would corrupt
+  the language-prior floor.
+
+## Citation
+
+```bibtex
+@inproceedings{kurashkin2026vizwizaudit,
+  title     = {Do VLMs See What Blind Users Show Them? A Distribution-Shift and
+               Evaluation-Protocol Audit on VizWiz},
+  author    = {Kurashkin, Sergei O. and Tynchenko, Vadim and Borodulin, Aleksei},
+  booktitle = {ECCV 2026 Workshops (ACVR)},
+  year      = {2026}
+}
+```
+
+Released under the MIT licence.
