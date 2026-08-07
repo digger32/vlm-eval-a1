@@ -29,19 +29,39 @@ from runner.units import condition_base
 # ----------------------------------------------------------- prompt builders
 DEFAULT_VQA_PROMPT = ("Answer in a few words. If the image does not allow answering, "
                       "reply 'unanswerable'.")
+MCQ_TEMPLATE = "{question}\n{opts}\nAnswer with the option's letter only."
+
+
+def _resolve_image(dsets, items, idx, item, drop_image, mismatch_shift):
+    """Image for this item, or None when the condition drops it.
+
+    mismatch_shift != 0 substitutes another item's image (deterministic, wraps around),
+    which keeps the question fixed while breaking the question-image correspondence.
+    """
+    if drop_image:
+        return None
+    src = items[(idx + mismatch_shift) % len(items)] if mismatch_shift else item
+    return dsets.ensure_image(src)
 
 
 def build_prompt(item, condition, vqa_prompt=None):
     if item["mcq"]:
         letters = "ABCDEFGH"
         opts = "\n".join(f"{letters[i]}. {o}" for i, o in enumerate(item["options"]))
-        return (f"{item['question']}\n{opts}\n"
-                "Answer with the option's letter only.")
+        return MCQ_TEMPLATE.format(question=item["question"], opts=opts)
     # open-ended VQA (instruction overridable from the run config: `prompt:`)
     return f"{item['question']}\n" + (vqa_prompt or DEFAULT_VQA_PROMPT)
 
 
-# ----------------------------------------------------- option permutation (MCQ order-robustness)
+def prompt_set_hash():
+    """One stable hash of the frozen prompt templates. The gate's F1 check asserts every
+    unit shares this hash, so no unit can be scored under a silently edited prompt."""
+    import hashlib
+    blob = "MCQ::" + MCQ_TEMPLATE + "||VQA::" + DEFAULT_VQA_PROMPT
+    return hashlib.sha256(blob.encode()).hexdigest()
+
+
+# ----------------------------------------------------- option permutation (A2)
 LETTERS = "ABCDEFGH"
 
 
@@ -70,12 +90,18 @@ def resolve_gt_index(item):
 def perm_order(item, condition, seed):
     """Deterministic option order (list of original indices) for a non-circular unit.
     Keyed on (item id, condition, seed) so perm_rand_3 is a fixed, reproducible shuffle
-    and identical across re-runs."""
+    and identical across re-runs and across worker subprocesses.
+
+    NB: `random.Random` is seeded with a STRING key, not builtin `hash(...)`. Python's
+    hash() of strings/tuples is salted per process (PYTHONHASHSEED), so a hash()-seeded
+    shuffle differs between subprocesses and between the resume and --no-resume passes,
+    which would silently desynchronise the option orders the analysis depends on. The
+    string seed is process-independent, so the permutation is truly reproducible."""
     import random
     n = len(item["options"])
     base = condition_base(condition)
     if base.startswith("perm_rand"):
-        rng = random.Random(hash((item["id"], condition, seed)) & 0xFFFFFFFF)
+        rng = random.Random(f"{item['id']}|{condition}|{seed}")
         order = list(range(n))
         rng.shuffle(order)
         return order
@@ -119,6 +145,8 @@ def run_unit(uid, run_cfg, models_cfg_path, results_dir=None):
     cond_spec = run_cfg["conditions"][condition_base(condition)]
     img_tf = condition_transform(cond_spec)
     drop_image = bool(cond_spec.get("drop_image", False))
+    # image-provenance control: pair the question with ANOTHER item's image
+    mismatch_shift = int(cond_spec.get("mismatch_shift", 0) or 0)
 
     # optional per-condition subset (e.g. corruption sweep on a fixed 1500-item subset).
     # deterministic prefix of the already-seed-sampled list -> stays a subset of `clean`,
@@ -137,13 +165,14 @@ def run_unit(uid, run_cfg, models_cfg_path, results_dir=None):
     t0 = time.time()
     n_correct = n_total = 0
     with open(items_path, "a") as fout:
-        for item in items:
+        for _idx, item in enumerate(items):
             if item["id"] in done_ids:
                 continue
             try:
                 if item["mcq"]:
                     gt_idx = resolve_gt_index(item)
-                    image = None if drop_image else dsets.ensure_image(item)
+                    image = _resolve_image(dsets, items, _idx, item,
+                                           drop_image, mismatch_shift)
                     if img_tf and image is not None:
                         image = img_tf(image)
                     n = len(item["options"])
@@ -178,7 +207,8 @@ def run_unit(uid, run_cfg, models_cfg_path, results_dir=None):
                                "chosen_orig": chosen_original_index(pred, order),
                                "raw": out[:200]}
                 else:
-                    image = None if drop_image else dsets.ensure_image(item)
+                    image = _resolve_image(dsets, items, _idx, item,
+                                           drop_image, mismatch_shift)
                     if img_tf and image is not None:
                         image = img_tf(image)
                     out = vlm.ask(image, build_prompt(item, condition, run_cfg.get("prompt")))
@@ -200,7 +230,13 @@ def run_unit(uid, run_cfg, models_cfg_path, results_dir=None):
         "wall_s": round(time.time() - t0, 1),
         "peak_vram_gb": round(vlm.peak_vram_bytes() / 1e9, 2),
         "items_file": items_path,
+        "prompt_set_hash": prompt_set_hash(),
     }
+    # An empty unit (loader returned nothing) is a FAILURE, not a silent success: this is
+    # exactly how the first MMMU run wrote 210 units with n_total=0 and score=null.
+    if n_total == 0:
+        raise RuntimeError(f"[{uid}] produced 0 scored items — loader/dataset returned "
+                           f"nothing; not writing a success summary")
     tmp = final_path + ".tmp"
     with open(tmp, "w") as f:
         json.dump(summary, f, indent=2)
