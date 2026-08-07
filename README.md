@@ -7,8 +7,6 @@ Code and per-prediction outputs for
 > Sergei O. Kurashkin, Vadim Tynchenko, Aleksei Borodulin
 > ACVR 2026 workshop, ECCV 2026.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21830933.svg)](https://doi.org/10.5281/zenodo.21830933)
-
 Nine open vision-language models (all ≤13B) are evaluated on VizWiz-VQA against VQAv2
 under a job-based runner: each **unit** = `(model, dataset, condition, seed)` runs as an
 isolated subprocess with per-unit timeout, atomic write, and item-level resume. The
