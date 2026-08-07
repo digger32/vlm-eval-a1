@@ -95,6 +95,32 @@ python gate/review_gate.py results_final --config gate/gate_config_a1.yaml
 
 See `REPRODUCIBILITY.md` for the environment pin and the clean-final-pass procedure.
 
+## Per-prediction outputs
+
+The raw per-prediction outputs for every run in the paper are shipped as a single
+archive, `results/a1_results.tgz` (unpack it in the repository root before running any
+analysis):
+
+```bash
+tar xzf results/a1_results.tgz
+```
+
+This restores:
+
+```
+results_final/        main run: 9 models x 2 datasets x clean / blind / corruption
+results_psweep_P0..P3/  prompt sweep (default / none / permissive / strict)
+results_imgq2/        image-vs-question decomposition (no-abstention prompt)
+results_cr_imgctrl/   image-provenance controls (grey / shuffled / mismatched)
+results_cr_P4, _P5/   strict-format and calibrated-abstention prompts
+results_cr_corrupt2/  six further corruption families at two severities
+```
+
+Each `*.items.jsonl` holds one JSON object per item: `{id, pred, acc, abstain}`. No
+reference answers are redistributed; scoring reads the public VizWiz and VQAv2 ground
+truth locally via `data/download_a1.py`.
+
+
 ## Notes
 
 - Per-prediction files carry no reference answers; scoring reads the public VizWiz and
